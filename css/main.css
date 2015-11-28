@@ -2,8 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
 body {
-	font-family: 'Roboto', sans-serif;
+       font-family: 'Roboto', sans-serif;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;
@@ -11,6 +12,29 @@ h1, h2, h3, h4, h5, h6 {
 
 #masthead {
 	text-align: center;
-	background-color: #ff675c;
 	color: #fff;
+	height: 100vh;
+	background-color: #ff675c;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff8777+0,ff473a+43,ff473a+100 */
+	background: -moz-linear-gradient(-45deg, #ff8777 0%, #ff473a 43%, #ff473a 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #ff8777 0%,#ff473a 43%,#ff473a 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #ff8777 0%,#ff473a 43%,#ff473a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8777', endColorstr='#ff473a',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	vertical-align: middle;
+	position: relative;
+}
+
+#masthead .inner {
+	top: 20vh;
+	text-align: center;
+	position: relative;
+}
+
+#masthead h1 {
+	font-size: 7em;
+	margin: 0;
+}
+
+html, body {
+	background-color: #ff675c;
 }
