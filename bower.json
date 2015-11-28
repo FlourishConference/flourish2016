@@ -1,0 +1,27 @@
+{
+  "name": "flourish2016",
+  "authors": [
+    "Chase Lee <clee231@uic.edu>"
+  ],
+  "description": "Flourish! 2016 Website",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Flourish",
+    "website"
+  ],
+  "license": "MIT",
+  "homepage": "http://flourishconf.com/2016",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "~3.4.0",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
