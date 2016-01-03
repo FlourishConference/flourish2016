@@ -22,6 +22,7 @@
   ],
   "dependencies": {
     "animate.css": "~3.4.0",
-    "normalize-css": "normalize.css#~3.0.3"
+    "normalize-css": "normalize.css#~3.0.3",
+    "hover": "Hover#~2.0.2"
   }
 }
