@@ -1,0 +1,156 @@
+@import 'bourbon/bourbon';
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
+
+$maincolor: #ff473a;
+$lightcolor: #ff8777;
+
+html, body {
+	/* background-color: #ff675c; */
+}
+
+body {
+       font-family: 'Roboto', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Raleway', sans-serif;
+}
+
+.masthead {
+	text-align: center;
+	color: #fff;
+	height: 100vh;
+	background-color: $maincolor;
+	background: url('../images/bg-trees-fade.png'), -moz-linear-gradient(-45deg, $lightcolor 0%, $maincolor 43%, $maincolor 100%); /* FF3.6-15 */
+	@include background(url('../images/bg-trees-fade.png'), linear-gradient(135deg, $lightcolor 0%,$maincolor 43%,$maincolor 100%));
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff8777+0,ff473a+43,ff473a+100 */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$lightcolor', endColorstr='$maincolor',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	vertical-align: middle;
+	position: relative;
+}
+
+.masthead .inner {
+	top: 20vh;
+	text-align: center;
+	position: relative;
+}
+
+.masthead h1 {
+	font-size: 7em;
+	margin: 0;
+}
+
+.nav {
+	padding-top: 1em;
+}
+
+.nav ul li {
+	display: inline;
+	list-style-type: none;
+}
+
+.nav ul.lg-btn {
+	margin: 0em;
+}
+
+.nav ul.lg-btn li {
+	border: 1px solid #fff;
+	margin: 0em 1em;
+	display: inline-block;
+}
+
+.nav a {
+	color: #fff;
+	text-decoration: none;
+	padding: 1em;
+}
+
+.nav ul.lg-btn li:hover a {
+	color: #000;
+}
+
+/* Sweep To Right */
+.hvr-sweep-to-right, .nav ul.lg-btn li {
+  display: inline-flex;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.hvr-sweep-to-right:before, .nav ul.lg-btn li:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active,
+.nav ul.lg-btn li:hover, .nav ul.lg-btn li:focus, .nav ul.lg-btn li:active {
+  color: white;
+}
+.hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before,
+.nav ul.lg-btn li:hover:before, .nav ul.lg-btn li:focus:before, .nav ul.lg-btn li:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.topnav {
+	background-color: #ff473a;
+	height: 10em;
+	text-align: center;
+}
+
+.topnav .inner {
+	margin: 0 auto;
+	width: 70%;
+}
+
+.topnav .inner .nav {
+	float: right;
+	position: relative;
+	top: 2.25em;
+}
+
+.topnav .logo {
+	height: 9em;
+}
+
+.content .row .center {
+	width: 70%;
+	margin: 0 auto;
+}
+p {
+	font-size: 1.5em;
+}
+
+.content .row .center h1 {
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 5em;
+	font-weight: 100;
+
+}
