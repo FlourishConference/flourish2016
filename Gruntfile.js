@@ -36,7 +36,7 @@ module.exports = function(g) {
 		connect: {
 			server: {
 				options: {
-					port: 80,
+					port: 8080,
 					base: ''
 				}
 			}
