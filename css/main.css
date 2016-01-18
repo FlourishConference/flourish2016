@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
+/* $maincolor: #ef1616; */
 html, body {
   /* background-color: #ff675c; */ }
 
@@ -36,7 +37,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .tagline {
   font-weight: 200;
-  font-size: 2em; }
+  font-size: 2em;
+  color: #fff; }
 
 .nav {
   padding-top: 1em; }
@@ -153,5 +155,33 @@ a:hover {
   padding: 1em; }
   .thin-border h2 {
     margin-top: 0; }
+
+h1.front-head {
+  color: #fff;
+  font-weight: 700; }
+
+.horiz {
+  margin: 0 auto;
+  width: 1%; }
+
+.top-bar {
+  height: 10em;
+  background-color: #ff473a; }
+  .top-bar img {
+    height: 9em; }
+  .top-bar ul {
+    background-color: inherit; }
+
+.lightbg {
+  background-color: #ff8777; }
+
+.mainbg {
+  background-color: #ff473a; }
+
+.subheader {
+  color: #fff; }
+
+.callout.large {
+  padding: 1rem; }
 
 /*# sourceMappingURL=main.css.map */

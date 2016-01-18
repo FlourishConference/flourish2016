@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
 
 $maincolor: #ff473a;
+/* $maincolor: #ef1616; */
 $lightcolor: #ff8777;
 
 html, body {
@@ -47,6 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 .tagline {
 	font-weight: 200;
 	font-size: 2em;
+	color: #fff;
 }
 
 .nav {
@@ -185,4 +187,41 @@ a:hover {
 	h2 {
 		margin-top: 0;
 	}
+}
+
+h1.front-head {
+	color: #fff;
+	font-weight: 700;
+}
+
+.horiz {
+	margin: 0 auto;
+	width: 1%;
+}
+
+.top-bar {
+	height: 10em;
+	background-color: $maincolor;
+	img {
+	height: 9em;
+	}
+	ul {
+	background-color: inherit;
+	}
+}
+
+.lightbg {
+	background-color: $lightcolor;
+}
+
+.mainbg {
+	background-color: $maincolor;
+}
+
+.subheader {
+	color: #fff;
+}
+
+.callout.large {
+	padding: 1rem;
 }
