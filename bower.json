@@ -25,6 +25,7 @@
     "normalize-css": "normalize.css#~3.0.3",
     "hover": "Hover#~2.0.2",
     "foundation": "~5.5.3",
-    "foundation-apps": "~1.2.0"
+    "foundation-apps": "~1.2.0",
+    "foundation-sites": "~6.1.1"
   }
 }
