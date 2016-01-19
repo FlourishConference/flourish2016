@@ -129,9 +129,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 70%;
   margin: 0 auto; }
 
-p {
-  font-size: 1.5em; }
-
 .content .row .center h1, .content .row .center h2, .content .row .center h3, .content .row .center h4, .content .row .center h5, .content .row .center h6 {
   font-family: 'Roboto Slab', sans-serif;
   font-weight: 300; }
