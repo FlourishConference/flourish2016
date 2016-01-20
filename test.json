@@ -1,0 +1,352 @@
+{
+    "speakers": [
+       {
+            "name": "bear",
+            "image": "bear.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a bear",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+        {
+            "name": "bunny",
+            "image": "bunny.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a bunny",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+       {
+            "name": "cheetah",
+            "image": "cheetah.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a cheetah",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+        {
+            "name": "dog",
+            "image": "dog.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a dog",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+       {
+            "name": "goat",
+            "image": "goat.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a goat",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+        {
+            "name": "hedgehog",
+            "image": "hedgehog.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a hedgehog",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+       {
+            "name": "mittens",
+            "image": "mittens.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a mittens",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+        {
+            "name": "owl",
+            "image": "owl.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a owl",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        },
+       {
+            "name": "penguin",
+            "image": "penguin.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a penguin",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        }, 
+        {
+            "name": "spider",
+            "image": "spider.jpg",
+            "descriptions": [
+                {
+                    "description1": "I am a spider",
+                    "description2": "something about the second paragraph"
+                }
+            ],
+            "videos":[
+                {
+                    "testV1":"url",
+                    "testV2":"url"
+                }   
+            ]
+        }
+    ],
+    "sponsors": [
+       {
+            "name": "Your Organization",
+            "image": "who.jpg",
+            "level": "gold",
+            "descriptions": [
+                {
+                    "description1": "I am a sponsor of Open Source Software!"
+                }
+            ]
+        },
+        {
+            "name": "Your Organization",
+            "image": "who.jpg",
+            "level": "silver",
+            "descriptions": [
+                {
+                    "description1": "I am a sponsor of Open Source Software!"
+                }
+            ]
+        },
+       {
+            "name": "Your Organization",
+            "image": "who.jpg",
+            "level": "bronze",
+            "descriptions": [
+                {
+                    "description1": "I am a sponsor of Open Source Software!"
+                }
+            ]
+        },
+       {
+            "name": "Your Organization",
+            "image": "who.jpg",
+            "level": "bronze",
+            "descriptions": [
+                {
+                    "description1": "I am a sponsor of Open Source Software!"
+                }
+            ]
+        },
+       {
+            "name": "Your Organization",
+            "image": "who.jpg",
+            "level": "bronze",
+            "descriptions": [
+                {
+                    "description1": "I am a sponsor of Open Source Software!"
+                }
+            ]
+        }
+    ],
+    "schedule":[
+           {
+            "day": "Fri, April 1",
+            "slot": [
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                }
+            ]
+        },
+        {
+            "day": "Sat, April 2",
+            "slot": [
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                },
+                {
+                    "time":"1:00p",
+                    "name":"stuff",
+                    "where":"ERF"
+                }
+            ]
+        }
+    ],    
+    "faq":[
+           {
+            "type": "General:",
+            "comment":"",
+            "subcomment":"",
+            "general": [
+                {
+                    "Qusetion":"Do I need to register?",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"Is the conference free?",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"Will food be provided?",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"What's the difference between Tech Talks and Speaker Talks?",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"What's the difference between the Startup Fair and the Career Fair?",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"I want to volunteer! How do I get involved?",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"I'm a company! I have questions!",
+                    "Answer":"stuff"
+                }
+            ]
+        },
+        {
+            "type": "<hr>Travel:",
+            "comment":"Flourish is held in the XXX Center for Computer Science at the University of Illinois in Chicago",
+            "subcomment":"SELE. Polk St. Chicago, IL",
+            "general": [
+                {
+                    "Qusetion":"Coming from O'Hare International Airport",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"Coming from Midway International Airport",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"Coming from Ogilvie Transportation Center",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"Coming from Union Station",
+                    "Answer":"stuff"
+                },
+                {
+                    "Qusetion":"Coming by car (parking)",
+                    "Answer":"stuff"
+                }
+            ]
+        }
+    ]
+}
