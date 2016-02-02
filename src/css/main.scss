@@ -60,11 +60,11 @@ h1, h2, h3, h4, h5, h6 {
 	list-style-type: none;
 }
 
-.nav ul.lg-btn {
+ul.lg-btn {
 	margin: 0em;
 }
 
-.nav ul.lg-btn li {
+ul.lg-btn li {
 	border: 1px solid #fff;
 	margin: 0em 1em;
 	display: inline-block;
@@ -76,12 +76,12 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 1em;
 }
 
-.nav ul.lg-btn li:hover a {
+ul.lg-btn li:hover a {
 	color: #000;
 }
 
 /* Sweep To Right */
-.hvr-sweep-to-right, .nav ul.lg-btn li {
+.hvr-sweep-to-right, ul.lg-btn li {
   display: inline-flex;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
-.hvr-sweep-to-right:before, .nav ul.lg-btn li:before {
+.hvr-sweep-to-right:before, ul.lg-btn li:before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -117,11 +117,11 @@ h1, h2, h3, h4, h5, h6 {
   transition-timing-function: ease-out;
 }
 .hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active,
-.nav ul.lg-btn li:hover, .nav ul.lg-btn li:focus, .nav ul.lg-btn li:active {
+ul.lg-btn li:hover, ul.lg-btn li:focus, ul.lg-btn li:active {
   color: white;
 }
 .hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before,
-.nav ul.lg-btn li:hover:before, .nav ul.lg-btn li:focus:before, .nav ul.lg-btn li:active:before {
+ul.lg-btn li:hover:before, ul.lg-btn li:focus:before, ul.lg-btn li:active:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
