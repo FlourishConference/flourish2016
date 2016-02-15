@@ -64,7 +64,7 @@ ul.lg-btn li:hover a {
   color: #000; }
 
 /* Sweep To Right */
-.hvr-sweep-to-right, ul.lg-btn li {
+.hvr-sweep-to-right, ul.lg-btn li, li[role="menuitem"] {
   display: inline-flex;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
@@ -79,7 +79,7 @@ ul.lg-btn li:hover a {
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s; }
 
-.hvr-sweep-to-right:before, ul.lg-btn li:before {
+.hvr-sweep-to-right:before, ul.lg-btn li:before, li[role="menuitem"]:before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -100,13 +100,28 @@ ul.lg-btn li:hover a {
   transition-timing-function: ease-out; }
 
 .hvr-sweep-to-right:hover, .hvr-sweep-to-right:focus, .hvr-sweep-to-right:active,
-ul.lg-btn li:hover, ul.lg-btn li:focus, ul.lg-btn li:active {
+ul.lg-btn li:hover, ul.lg-btn li:focus, ul.lg-btn li:active,
+li[role="menuitem"]:hover, li[role="menuitem"]:focus, li[role="menuitem"]:active {
   color: white; }
 
 .hvr-sweep-to-right:hover:before, .hvr-sweep-to-right:focus:before, .hvr-sweep-to-right:active:before,
-ul.lg-btn li:hover:before, ul.lg-btn li:focus:before, ul.lg-btn li:active:before {
+ul.lg-btn li:hover:before, ul.lg-btn li:focus:before, ul.lg-btn li:active:before,
+li[role="menuitem"]:hover:before, li[role="menuitem"]:focus:before,
+li[role="menuitem"]:active:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1); }
+
+.menu-text img:hover {
+  -webkit-filter: invert(1);
+  filter: invert(1); }
+
+.button {
+  background-color: #ff473a;
+  border: 1px solid #fff; }
+
+.button:hover {
+  background-color: #fff;
+  color: #000; }
 
 .topnav {
   background-color: #ff473a;
@@ -124,6 +139,18 @@ ul.lg-btn li:hover:before, ul.lg-btn li:focus:before, ul.lg-btn li:active:before
 
 .topnav .logo {
   height: 9em; }
+
+.menu-text {
+  padding: 0; }
+
+.top-bar, .top-bar ul {
+  background-color: #ff473a; }
+
+.top-bar a {
+  color: #fff; }
+
+.dropdown.menu .submenu {
+  background-color: #ff473a; }
 
 .content .row .center {
   width: 70%;
@@ -161,14 +188,6 @@ h1.front-head {
   margin: 0 auto;
   width: 1%; }
 
-.top-bar {
-  height: 10em;
-  background-color: #ff473a; }
-  .top-bar img {
-    height: 9em; }
-  .top-bar ul {
-    background-color: inherit; }
-
 .lightbg {
   background-color: #ff8777; }
 
@@ -180,16 +199,6 @@ h1.front-head {
 
 .callout.large {
   padding: 1rem; }
-
-.arrow {
-  position: fixed;
-  bottom: 0;
-  left: 50%;
-  margin-left: -20px;
-  width: 40px;
-  height: 40px;
-  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTEycHgiIGhlaWdodD0iNTEycHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yOTMuNzUxLDQ1NS44NjhjLTIwLjE4MSwyMC4xNzktNTMuMTY1LDE5LjkxMy03My42NzMtMC41OTVsMCwwYy0yMC41MDgtMjAuNTA4LTIwLjc3My01My40OTMtMC41OTQtNzMuNjcyICBsMTg5Ljk5OS0xOTBjMjAuMTc4LTIwLjE3OCw1My4xNjQtMTkuOTEzLDczLjY3MiwwLjU5NWwwLDBjMjAuNTA4LDIwLjUwOSwyMC43NzIsNTMuNDkyLDAuNTk1LDczLjY3MUwyOTMuNzUxLDQ1NS44Njh6Ii8+DQo8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjIwLjI0OSw0NTUuODY4YzIwLjE4LDIwLjE3OSw1My4xNjQsMTkuOTEzLDczLjY3Mi0wLjU5NWwwLDBjMjAuNTA5LTIwLjUwOCwyMC43NzQtNTMuNDkzLDAuNTk2LTczLjY3MiAgbC0xOTAtMTkwYy0yMC4xNzgtMjAuMTc4LTUzLjE2NC0xOS45MTMtNzMuNjcxLDAuNTk1bDAsMGMtMjAuNTA4LDIwLjUwOS0yMC43NzIsNTMuNDkyLTAuNTk1LDczLjY3MUwyMjAuMjQ5LDQ1NS44Njh6Ii8+DQo8L3N2Zz4=);
-  background-size: contain; }
 
 .bounce {
   -webkit-animation: bounce 2s infinite;
@@ -209,5 +218,21 @@ h1.front-head {
 
 .mainbg {
   background-color: #ff473a; }
+
+.label.secondary {
+  background-color: #aaa;
+  transition: 0.25s all; }
+
+.label.secondary a {
+  color: #fff; }
+
+.label.secondary:hover {
+  background-color: #ff473a; }
+
+.callout ul {
+  margin-left: 1em; }
+
+.title-bar {
+  background: #ff473a none repeat scroll 0 0; }
 
 /*# sourceMappingURL=main.css.map */

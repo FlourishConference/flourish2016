@@ -6,28 +6,32 @@
 <title>About Flourish! | Flourish! 2016</title>
 <link rel="stylesheet" href="bower_components/foundation-sites/dist/foundation.min.css">
 <link href="bower_components/normalize-css/normalize.css" rel='stylesheet' type='text/css' />
-<link href="bower_components/foundation/css/foundation.min.css" rel='stylesheet' type='text/css' />
 <link href="css/main.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
  
-<div class="top-bar">
-<div class="top-bar-left">
-<ul class="menu">
-<li class="menu-text">
-	<img src="./images/f16-logo-wtagline-white.png" class="logo"/>
-</li>
-</ul>
-</div>
-<div class="nav">
-	<ul class="lg-btn">
-<li><a href="index.html">Home</a></li>
-<li><a href="about.html">About Flourish!</a></li>
-<li><a href="sponsor.html">Sponsorship</a></li>
-<li><a href="miniexpo.html">Mini-Expo</a></li>
-<li><a href="contact.html">Contact Us</a></li>
-</ul>
-</div>
+<div class="title-bar" data-responsive-toggle="nav-bar" data-hide-for="medium">
+        <button class="menu-icon" type="button" data-toggle></button>
+        <div class="title-bar-title">Menu</div>
+      </div>
+      
+      <div class="top-bar" id="nav-bar">
+        <div class="top-bar-left">
+          <ul class="dropdown vertical medium-horizontal menu" data-dropdown-menu>
+            <li class="menu-text"><a href="index.html"><img src="images/f16-logo-wtagline-white.png" alt="Flourish! 2016" width="124px"></a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Flourish!</a></li>
+            <li><a href="sponsor.html">Sponsorship</a></li>
+            <li><a href="miniexpo.html">Mini-Expo</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+          </ul>
+		</div>
+		<div class="top-bar-right">
+          <ul class="menu">
+            <li><a href="//flourish2016.eventbrite.com" class="button">Register for Flourish! 2016</a></li>
+          </ul>
+        </div>
+
 </div>
  
 <div class="callout large lightbg">
@@ -96,7 +100,7 @@ The goal of the Flourish Conference is to promote the use and adoption of Free L
 
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script src="bower_components/foundation/js/foundation.min.js"></script>
+<script src="bower_components/foundation-sites/dist/foundation.min.js"></script>
 <script>
       $(document).foundation();
     </script>
