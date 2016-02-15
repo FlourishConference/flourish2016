@@ -24,10 +24,12 @@ h1, h2, h3, h4, h5, h6 {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$lightcolor', endColorstr='$maincolor',GradientType=1 );
   /* IE6-9 fallback on horizontal gradient */
   vertical-align: middle;
-  position: relative; }
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
 
 .masthead .inner {
-  top: 20vh;
   text-align: center;
   position: relative; }
 
@@ -234,5 +236,9 @@ h1.front-head {
 
 .title-bar {
   background: #ff473a none repeat scroll 0 0; }
+
+.faq {
+  background: url("../images/myViewOfChicago.jpg") no-repeat center center fixed;
+  background-size: cover; }
 
 /*# sourceMappingURL=main.css.map */
