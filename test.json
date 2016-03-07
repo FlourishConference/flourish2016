@@ -197,6 +197,30 @@
                     "description1": ""
                 }
             ]
+        },
+        {
+            "name": "Department of Computer Science",
+			"showName": false,
+            "image": "sponsors/COL.ENG.DCS.BOTTOM.LG.PMS.PNG",
+			"link": "http://cs.uic.edu",
+            "level": "gold",
+            "descriptions": [
+                {
+                    "description1": ""
+                }
+            ]
+        },
+        {
+            "name": "College of Engineering",
+			"showName": false,
+            "image": "sponsors/COL.ENG.UNIV.NOTL.LG.PMS.PNG",
+			"link": "http://coe.uic.edu",
+            "level": "diamond",
+            "descriptions": [
+                {
+                    "description1": ""
+                }
+            ]
         }
 	],
     "schedule":[

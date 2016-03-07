@@ -276,6 +276,18 @@ h1.front-head {
     width: 100%; }
   .sponsors .list-content p {
     flex: 1 0 auto; }
+  .sponsors .list-content-diamond {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    width: 100%; }
+  .sponsors .list-content-platinum {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    width: 100%; }
   .sponsors .list-content-gold {
     background-color: #fff;
     display: flex;

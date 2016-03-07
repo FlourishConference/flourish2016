@@ -342,6 +342,20 @@ h1.front-head {
 	.list-content p {
 		flex: 1 0 auto;
 	}
+	.list-content-diamond {
+		background-color: #fff;
+		display: flex;
+		flex-direction: column;
+		padding: 1em;
+		width: 100%;
+	}
+	.list-content-platinum {
+		background-color: #fff;
+		display: flex;
+		flex-direction: column;
+		padding: 1em;
+		width: 100%;
+	}
 	.list-content-gold {
 		background-color: #fff;
 		display: flex;
