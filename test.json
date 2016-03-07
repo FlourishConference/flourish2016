@@ -293,59 +293,55 @@
             "general": [
                 {
                     "Qusetion":"Do I need to register?",
-                    "Answer":"stuff"
+                    "Answer":"Yes. You have the option to register online before or during the conference.  If you choose to register before March 12, 2016, we will be counted in our order for conference T-shirts.  You will be able to pick up T-shirts when checking in at the conference. Any unclaimed T-shirts after noon on Saturday will be given to those who want one.  We ask that you register as soon as possible, so that we can guage our needs for food, swag, and T-shirts."
                 },
                 {
                     "Qusetion":"Is the conference free?",
-                    "Answer":"stuff"
+                    "Answer":"Yes! We welcome students, staff, and open-source enthusiasts alike to join us at Flourish!.  When registering for the conference, you have the option to register for free or as a donation ticket.  Donations will be used to support Flourish! for the next year."
                 },
                 {
                     "Qusetion":"Will food be provided?",
-                    "Answer":"stuff"
-                },
-                {
-                    "Qusetion":"What's the difference between Tech Talks and Speaker Talks?",
-                    "Answer":"stuff"
-                },
-                {
-                    "Qusetion":"What's the difference between the Startup Fair and the Career Fair?",
-                    "Answer":"stuff"
+                    "Answer":"Yes. We will do our best to cater to your needs considering our limited budget.  We ask that you do register beforehand, so we can better guage our needs in ordering food.  There are also various restaurants on West on Taylor Street, South on Halsted Street as well Greek Town just a few blocks North of the conference."
                 },
                 {
                     "Qusetion":"I want to volunteer! How do I get involved?",
-                    "Answer":"stuff"
+                    "Answer":"We have bi-weekly meetings at UIC.  Please email <a href=\"mailto:volunteer@flourishconf.com\">volunteer@flourishconf.com</a> for more details.  You can also subscribe to our planning listserv to get the most up-to-date information of planning meeting and logistics. Instructions for listserv subscriptions and other methods of contact can be found on our <a href=\"contact.html\">contact page</a>."
                 },
                 {
                     "Qusetion":"I'm a company! I have questions!",
-                    "Answer":"stuff"
+                    "Answer":"Thank you for your interest.  We ask that you direct questions to <a href=\"mailto:info@flourishconf.com\">info@flourishconf.com</a>. Thanks!"
                 }
             ]
         },
         {
             "type": "<hr>Travel:",
-            "comment":"Flourish is held in the XXX Center for Computer Science at the University of Illinois in Chicago",
-            "subcomment":"SELE. Polk St. Chicago, IL",
+            "comment":"Flourish! 2016 will be held in the 3rd Floor Conference Center in Student Center East at the University of Illinois in Chicago",
+            "subcomment":"3rd Floor Conference Center - 750 S Halsted Street Chicago, IL 60607",
             "general": [
                 {
                     "Qusetion":"Coming from O'Hare International Airport",
-                    "Answer":"stuff"
+                    "Answer":"Take the CTA Blue Line towards Forest Park. Take the Blue Line until you arrive at UIC-Halsted.  From the station, walk South along Halsted Street until you arrive at 750 South Halsted Street."
                 },
                 {
                     "Qusetion":"Coming from Midway International Airport",
-                    "Answer":"stuff"
+                    "Answer":"Take the CTA Orange Line towards Loop 'L'.  Take the Orange Line until you arrive at LaSalle/Van Buren.  From that stop, walk South to the CTA LaSalle Blue Line (one block) to transfer.  Take the CTA Blue Line towards Forest Park.  Ride the Blue Line for two stops until UIC-Halsted.  From the station, walk South along Salsted Street until you arrive at 750 South Halsted Street."
                 },
                 {
                     "Qusetion":"Coming from Ogilvie Transportation Center",
-                    "Answer":"stuff"
+                    "Answer":"From the Ogilvie Transportation Center, Head West on West Washington Boulevard toward North Clinton Street. Turn left onto North Clinton Street and walk one block to the intersection of Madison and Clinton. Wait at the bus stop for bus #60 towards Cicero/24th Place.  Take the bus until you reach Halsted and Polk. You should arrive near the Jane Addams Hull House Museum.  Cross the street at the intersection of Halsted and Polk to arrive at Student Center East."
                 },
                 {
                     "Qusetion":"Coming from Union Station",
-                    "Answer":"stuff"
+                    "Answer":"From Union Station, Use the Clinton and Jackson exit. Wait for CTA bus #60 at the bus stop on the opposite side of the street.  Board bus #60 towards Cicero/24th Place.  Take the bus until you reach Halsted and Polk. You should arrive near the Jane Addams Hull House Museum. Cross the street at the intersection of Halsted and Polk to arrive at Student Center East."
                 },
                 {
                     "Qusetion":"Coming by car (parking)",
-                    "Answer":"stuff"
-                }
+                    "Answer":"Visitor parking is available at a few locations around Student Center East.  You may use the Halsted Street Partking Structure at the corner of South Halsted Street and West Taylor Street. Standard parking fees may apply.  Lot 4 directly East of Student Center East is available. Standard parking fees apply at Lot 4.  Lot 5C at the corner of West Roosevelt Boulevard and South Morgan Street is available as well.  Standard parking fees may apply at Lot 5C."
+                },
+				{
+                    "Qusetion":"Additional Resources",
+					"Answer":"<ul><li><a href=\"http://maps.uic.edu/\">UIC Campus Map</a></li><li><a href=\"\">Visitor's Guide</a></li></ul>"
+				}
             ]
         }
     ]
