@@ -64,7 +64,8 @@ $json = json_decode($str, true);
 //`--------------------------------------------------------------------------'
 //                                                    -Phoenix-
 $sponsorsHead = "<div id = \"sponsors\">
-<h1>Sponsors: </h1>
+<h1>Sponsors</h1>
+<p>Thank you to all our sponsors this year, this conference wouldn't be here without you!</p>
 <!-- Significant references from http://clearleft.com/thinks/270  -->
 <!-- Credit to Charlotte Jackson -->
 <!-- 15TH APRIL 2015 -->
@@ -78,16 +79,15 @@ echo $sponsorsHead . "\n";
 foreach($json['sponsors'] as $mydata){
     
     echo "        <li class=\"list-item\">\n";
-    echo "            <div class=\"list-content-". $mydata['level'] ."\">\n";
-    echo "                <h2>". $mydata['name'] . "</h2>\n";
+    echo "            <a href=\"" . $mydata['link'] . "\"><div class=\"list-content-". $mydata['level'] ."\">\n";
+    if ($mydata['showName'] == true) {echo "                <h2>". $mydata['name'] . "</h2>\n";}
     echo "                <img src=\"images/". $mydata['image'] ."\" alt=\"". $mydata['name'] ."\" />\n";
     
     foreach($mydata['descriptions'][0] as $values){//write code so just one para is added.
-       echo "                <p>". $values ."</p>\n";
+       if (isset($values)) {echo "                <p>". $values ."</p>\n";}
     }
     
-    echo "                <a href=\"#\">none</a>\n";
-    echo "            </div>\n";
+    echo "            </div></a>\n";
     echo "        </li>\n";
 } 
 echo $sponsorsTail;

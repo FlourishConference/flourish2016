@@ -164,31 +164,37 @@
     "sponsors": [
 	  {
             "name": "SpanTree",
-            "image": "who.jpg",
+			"showName": false,
+            "image": "sponsors/spantree.png",
+			"link": "http://spantree.net/",
             "level": "gold",
             "descriptions": [
                 {
-                    "description1": "I am a sponsor of Open Source Software!"
+                    "description1": ""
                 }
             ]
 	   },
        {
             "name": "ACM SIGSOFT",
-            "image": "who.jpg",
+			"showName": true,
+            "image": "",
+			"link": "http://www.sigsoft.org/",
             "level": "silver",
             "descriptions": [
                 {
-                    "description1": "I am a sponsor of Open Source Software!"
+                    "description1": ""
                 }
             ]
         },
         {
             "name": "easyname.ch",
-            "image": "who.jpg",
+			"showName": false,
+            "image": "sponsors/easyname.png",
+			"link": "http://easyname.com",
             "level": "silver",
             "descriptions": [
                 {
-                    "description1": "I am a sponsor of Open Source Software!"
+                    "description1": ""
                 }
             ]
         }
@@ -271,6 +277,11 @@
             "comment":"",
             "subcomment":"",
             "general": [
+                {
+                    "Qusetion":"What is Flourish!?",
+                    "Answer":"Flourish! is a <strong>student-led</strong> conference hosted at the University of Illinois at Chicago. This year will mark the conference's <strong>ninth</strong> year.  We are proud to help promote the use of open source and provide a gathering place for open source enthusiasts in the Chicagoland area. The Flourish! conference is <strong>FREE</strong> to attend and there will be free T-Shirts to those who register before March 12th. We really appreciate everyone for coming to Flourish! Conference for the past several years and we hope to bring another great and educating year!"
+                },
+
                 {
                     "Qusetion":"Do I need to register?",
                     "Answer":"Yes. You have the option to register online before or during the conference.  If you choose to register before March 12, 2016, we will be counted in our order for conference T-shirts.  You will be able to pick up T-shirts when checking in at the conference. Any unclaimed T-shirts after noon on Saturday will be given to those who want one.  We ask that you register as soon as possible, so that we can guage our needs for food, swag, and T-shirts."
