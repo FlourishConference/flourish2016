@@ -10,6 +10,7 @@ $json = json_decode($str, true);
 		<link href="bower_components/normalize-css/normalize.css" rel='stylesheet' type='text/css' />
 		<link href="bower_components/foundation/css/foundation.min.css" rel='stylesheet' type='text/css' />
 		<link href="css/main.css" rel='stylesheet' type='text/css' />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
 		<div class="masthead">
