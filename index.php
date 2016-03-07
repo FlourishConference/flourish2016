@@ -33,7 +33,10 @@ $json = json_decode($str, true);
 					<li><a href="http://flourish2016.eventbrite.com">Registration Now Open!</a></li>
 				</ul>
 			</div>
-			<p>More information coming soon!</p>
+			<p>Scroll down for some FAQs!</p>
+<br /><br />
+<br /><br />
+<br /><br />
 			</div><!-- inner -->
 		</div><!-- masthead -->
         <div class="sponsors">

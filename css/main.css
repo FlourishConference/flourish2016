@@ -276,39 +276,9 @@ h1.front-head {
     width: 100%; }
   .sponsors .list-content p {
     flex: 1 0 auto; }
-  .sponsors .list-content-diamond {
+  .sponsors .list-content-diamond, .sponsors .list-content-platinum, .sponsors .list-content-gold, .sponsors .list-content-silver, .sponsors .list-content-bronze, .sponsors .list-content-grey {
     background-color: #fff;
-    display: flex;
-    flex-direction: column;
-    padding: 1em;
-    width: 100%; }
-  .sponsors .list-content-platinum {
-    background-color: #fff;
-    display: flex;
-    flex-direction: column;
-    padding: 1em;
-    width: 100%; }
-  .sponsors .list-content-gold {
-    background-color: #fff;
-    display: flex;
-    flex-direction: column;
-    padding: 1em;
-    width: 100%; }
-  .sponsors .list-content-silver {
-    background-color: #fff;
-    display: flex;
-    flex-direction: column;
-    padding: 1em;
-    width: 100%; }
-  .sponsors .list-content-bronze {
-    background-color: #fff;
-    display: flex;
-    flex-direction: column;
-    padding: 1em;
-    width: 100%; }
-  .sponsors .list-content-grey {
-    background-color: #ccc;
-    display: flex;
+    display: inline-block;
     flex-direction: column;
     padding: 1em;
     width: 100%; }

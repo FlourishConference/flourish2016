@@ -342,44 +342,9 @@ h1.front-head {
 	.list-content p {
 		flex: 1 0 auto;
 	}
-	.list-content-diamond {
+	.list-content-diamond, .list-content-platinum, .list-content-gold, .list-content-silver, .list-content-bronze, .list-content-grey {
 		background-color: #fff;
-		display: flex;
-		flex-direction: column;
-		padding: 1em;
-		width: 100%;
-	}
-	.list-content-platinum {
-		background-color: #fff;
-		display: flex;
-		flex-direction: column;
-		padding: 1em;
-		width: 100%;
-	}
-	.list-content-gold {
-		background-color: #fff;
-		display: flex;
-		flex-direction: column;
-		padding: 1em;
-		width: 100%;
-	}
-	.list-content-silver {
-		background-color: #fff;
-		display: flex;
-		flex-direction: column;
-		padding: 1em;
-		width: 100%;
-	}
-	.list-content-bronze {
-		background-color: #fff;
-		display: flex;
-		flex-direction: column;
-		padding: 1em;
-		width: 100%;
-	}
-	.list-content-grey {
-		background-color: #ccc;
-		display: flex;
+		display: inline-block;
 		flex-direction: column;
 		padding: 1em;
 		width: 100%;
