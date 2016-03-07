@@ -1,4 +1,9 @@
 <!DOCTYPE HTML>
+<?php
+// decode JSON
+$str = file_get_contents('./test.json');
+$json = json_decode($str, true);
+?>
 <html class="mainbg">
 	<head>
 		<title>Flourish! 2016</title>
@@ -90,10 +95,6 @@ echo $sponsorsTail;
         </div><!-- sponsors -->
 		<div class="faq">
 <?php
-// decode JSON
-$str = file_get_contents('./test.json');
-$json = json_decode($str, true);
-
 /*******************************************/
 /*                                         */
 /*                  FAQ                    */

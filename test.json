@@ -162,8 +162,8 @@
         }
     ],
     "sponsors": [
-       {
-            "name": "Your Organization",
+	  {
+            "name": "SpanTree",
             "image": "who.jpg",
             "level": "gold",
             "descriptions": [
@@ -171,9 +171,9 @@
                     "description1": "I am a sponsor of Open Source Software!"
                 }
             ]
-        },
-        {
-            "name": "Your Organization",
+	   },
+       {
+            "name": "ACM SIGSOFT",
             "image": "who.jpg",
             "level": "silver",
             "descriptions": [
@@ -182,37 +182,17 @@
                 }
             ]
         },
-       {
-            "name": "Your Organization",
+        {
+            "name": "easyname.ch",
             "image": "who.jpg",
-            "level": "bronze",
-            "descriptions": [
-                {
-                    "description1": "I am a sponsor of Open Source Software!"
-                }
-            ]
-        },
-       {
-            "name": "Your Organization",
-            "image": "who.jpg",
-            "level": "bronze",
-            "descriptions": [
-                {
-                    "description1": "I am a sponsor of Open Source Software!"
-                }
-            ]
-        },
-       {
-            "name": "Your Organization",
-            "image": "who.jpg",
-            "level": "bronze",
+            "level": "silver",
             "descriptions": [
                 {
                     "description1": "I am a sponsor of Open Source Software!"
                 }
             ]
         }
-    ],
+	],
     "schedule":[
            {
             "day": "Fri, April 1",
