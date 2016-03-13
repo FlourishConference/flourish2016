@@ -1,392 +1,287 @@
-{ // Todo: Parse out speakers with no title. Create speaker-holder.png for placeholder image.
-    "speakers": [
-       {
-            "name": "Cecilia Donnelly",
-            "title": " ",
-            "image": "cecilia-donnelly.png",
-            "descriptions": [
-                {
-                    "description1": "Cecilia Donnelly is a developer and project manager at <a href=\"http://opentechstrategies.com\">Open Tech Strategies</a>, a consulting company that helps organizations use open source to achieve their goals.  Cecilia is particularly experienced with and interested in the technology needs of community-based non-profits."
-                }
-            ]
-        },
-        {
-            "name": "Chris Thoburn",
-            "title": " ",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": " "
-                }
-            ]
-        },
-        {
-            "name": "Christopher Manning",
-            "title": "christopher-manning.jpg",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": "Building a software product with a team at a startup requires effectively utilizing the limited time and resources at your disposal. In this talk, I will discuss the pros and cons of using open-source software to build a product at a startup, a process for maintaining the software you use, and lessons learned from relying on open-source software.",
-                    "description2": "Christopher Manning works at Civis Analytics as a Senior Staff Engineer. He spends his time improving the software platform, promoting open-source, and providing technical guidance."
-                }
-            ]
-        },
-        {
-            "name": "Daliah Saper",
-            "title": "To use or not to use? The Legal Implications of Using Open Source Software",
-            "image": "daliah-saper.jpg",
-            "descriptions": [
-                {
-                    "description1": "Daliah Saper has handled many high profile cases (including one she argued before the Illinois Supreme  Court) and is regularly interviewed on national tv, radio, and in several publications including Fox News, CNN, CNBC, ABC News, 20/20, The New York Times, and the Chicago Tribune.  She has repeatedly received the honor of being named a “Rising Star” by Super Lawyers magazine, is recognized as a leading Media and Entertainment lawyer by Chambers and Partners, featured on the covers of TheXemplar magazine and Chicago Lawyer Magazine, profiled by the Chicago Law Bulletin,  and has been nominated for the prestigious ATHENA Young Professional Leadership Award. Most notably, in 2012, Law Bulletin Publishing Company selected Daliah Saper as a “40 under 40,” an incredibly competitive list of accomplished attorneys selected from thousands of qualified nominations.  She serves as an Adjunct Professor of Entertainment Law at Loyola University Chicago School of Law. As a litigator she handles cases involving trademark and copyright infringement, trade secret misappropriation, online defamation, domain name squatting, and commercial disputes. As a transactional lawyer she helps clients choose the right business entity, drafts bylaws and operating agreements as well as sweepstakes and contest rules, negotiates contracts and licenses including website terms of use and privacy policies, and provides comprehensive trademark and copyright counseling."
-                }
-            ]
-        },
-        {
-            "name": "Derek Eder",
-            "title": "Open Source and Civic Technology",
-            "image": "derek-eder.jpg",
-            "descriptions": [
-                {
-                    "description1": "Open source is cool, but can it improve the lives of everyday people? Can it improve the way we interact with our government and hold it accountable?",
-                    "description2": "Yes, it can. <a href=\"https://twitter.com/derekeder\">Derek Eder</a> will talk about the role that open source has played in the open government and civic technology movements in Chicago through his work with <a href=\"http://datamade.us\">DataMade</a>, <a href=\"http://opencityapps.org\">Open City</a>, and <a href=\"http://chihacknight.org\">Chi Hack Night</a>. He'll show off some of the open source civic applications he's worked on including <a href=\"http://lookatcook.com\">Look at Cook</a>, <a href=\"https://www.councilmatic.org\">Councilmatic</a> and the <a href=\"http://derekeder.com/searchable_map_template\">Searchable Map Template</a>.",
-                    "description3": "Derek Eder has been building websites in Chicago since 2005. He is the owner of DataMade, LLC, an open government and open data web consulting company, co-founder of Open City, a collective that makes civic apps with open data, and organizer for the Open Gov Hack Night, a weekly event for building civic technology with open data.",
+{
+	"_comment": "Todo: Parse out speakers with no title. Create speaker-holder.png for placeholder image.",
+	"speakers": [{
+		"name": "Cecilia Donnelly",
+		"title": " ",
+		"image": "cecilia-donnelly.png",
+		"descriptions": [{
+			"description1": "Cecilia Donnelly is a developer and project manager at <a href=\"http://opentechstrategies.com\">Open Tech Strategies</a>, a consulting company that helps organizations use open source to achieve their goals.  Cecilia is particularly experienced with and interested in the technology needs of community-based non-profits."
+		}]
+	}, {
+		"name": "Chris Thoburn",
+		"title": " ",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": " "
+		}]
+	}, {
+		"name": "Christopher Manning",
+		"title": "christopher-manning.jpg",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": "Building a software product with a team at a startup requires effectively utilizing the limited time and resources at your disposal. In this talk, I will discuss the pros and cons of using open-source software to build a product at a startup, a process for maintaining the software you use, and lessons learned from relying on open-source software.",
+			"description2": "Christopher Manning works at Civis Analytics as a Senior Staff Engineer. He spends his time improving the software platform, promoting open-source, and providing technical guidance."
+		}]
+	}, {
+		"name": "Daliah Saper",
+		"title": "To use or not to use? The Legal Implications of Using Open Source Software",
+		"image": "daliah-saper.jpg",
+		"descriptions": [{
+			"description1": "Daliah Saper has handled many high profile cases (including one she argued before the Illinois Supreme  Court) and is regularly interviewed on national tv, radio, and in several publications including Fox News, CNN, CNBC, ABC News, 20/20, The New York Times, and the Chicago Tribune.  She has repeatedly received the honor of being named a “Rising Star” by Super Lawyers magazine, is recognized as a leading Media and Entertainment lawyer by Chambers and Partners, featured on the covers of TheXemplar magazine and Chicago Lawyer Magazine, profiled by the Chicago Law Bulletin,  and has been nominated for the prestigious ATHENA Young Professional Leadership Award. Most notably, in 2012, Law Bulletin Publishing Company selected Daliah Saper as a “40 under 40,” an incredibly competitive list of accomplished attorneys selected from thousands of qualified nominations.  She serves as an Adjunct Professor of Entertainment Law at Loyola University Chicago School of Law. As a litigator she handles cases involving trademark and copyright infringement, trade secret misappropriation, online defamation, domain name squatting, and commercial disputes. As a transactional lawyer she helps clients choose the right business entity, drafts bylaws and operating agreements as well as sweepstakes and contest rules, negotiates contracts and licenses including website terms of use and privacy policies, and provides comprehensive trademark and copyright counseling."
+		}]
+	}, {
+		"name": "Derek Eder",
+		"title": "Open Source and Civic Technology",
+		"image": "derek-eder.jpg",
+		"descriptions": [{
+			"description1": "Open source is cool, but can it improve the lives of everyday people? Can it improve the way we interact with our government and hold it accountable?",
+			"description2": "Yes, it can. <a href=\"https://twitter.com/derekeder\">Derek Eder</a> will talk about the role that open source has played in the open government and civic technology movements in Chicago through his work with <a href=\"http://datamade.us\">DataMade</a>, <a href=\"http://opencityapps.org\">Open City</a>, and <a href=\"http://chihacknight.org\">Chi Hack Night</a>. He'll show off some of the open source civic applications he's worked on including <a href=\"http://lookatcook.com\">Look at Cook</a>, <a href=\"https://www.councilmatic.org\">Councilmatic</a> and the <a href=\"http://derekeder.com/searchable_map_template\">Searchable Map Template</a>.",
+			"description3": "Derek Eder has been building websites in Chicago since 2005. He is the owner of DataMade, LLC, an open government and open data web consulting company, co-founder of Open City, a collective that makes civic apps with open data, and organizer for the Open Gov Hack Night, a weekly event for building civic technology with open data."
+		}]
+	}, {
+		"name": "Dru Lavigne",
+		"title": "ZFS 101 (aka ZFS is Cool and Why You Should be Using It)",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": "This presentation introduces some of the cool features provided by the ZFS filesystem. These features include built-in software RAID, the ability to self-heal data corruption, copy-on-write, low-overhead snapshots, support for multiple boot environments, and more. It then demonstrates how these features are incorporated into the graphical user interfaces of FreeNAS (an open source storage system) and PC-BSD (an open source desktop/server).",
+			"description2": "Dru Lavigne is the lead documentation writer for the PC-BSD and FreeNAS projects. She is author of BSD Hacks, The Best of FreeBSD Basics, and The Definitive Guide to PC-BSD. She is founder and current Chair of the BSD Certification Group Inc., a non-profit organization with a mission to create the standard for certifying BSD system administrators, and serves on the Board of the FreeBSD Foundation."
+		}]
+	}, {
+		"name": "Evan Miller",
+		"title": "Democracy in Open Source",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": " "
+		}]
+	}, {
+		"name": "Greg Bauges",
+		"title": " ",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": " "
+		}]
+	}, {
+		"name": "Jim Campbell",
+		"title": " ",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": " "
+		}]
+	}, {
+		"name": "Johnathan Rentzsch",
+		"title": "Back to the Future",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": "We tend to view history and progress in a straight line, each thing building on the past. But that’s not simply the case. For example, we forgot the cure to scurvy. The standard lament is that, for computers, everything was invented in the 1960s. Fortunately that’s only 85% true. But it’s way more true than most programmers think. Wolf will provide examples of tech from the 60, 70s, and 80s that finally went mainstream and promising old tech that should move into the mainstream.",
+			"description2": "Wolf Rentzsch has been writing Apple software since 1993 and web software since 1998. He’s spoken at conferences across the world and even ran his own conference, C4, right here in Chicago for four years. His passion is to make software better."
+		}]
+	}, {
+		"name": "Luke Westby",
+		"title": "Applications as Fractals: The Elm Architecture",
+		"image": "luke-westby.jpg",
+		"descriptions": [{
+			"description1": "The Elm Architecture is the officially prescribed design pattern for building applications with Elm. Compared to the traditional MVC architecture it can be described as MVU - Model, View, Update. Reactivity is a built-in construct in Elm and so Elm allows us to strip away all of the control associated with a controller and focus entirely on how we update the model given a change in our system.",
+			"description2": "In this talk Luke will explain how the Elm architecture arises from Elm's Signals, Tasks, Tagged Unions, and stateless view functions. He will demonstrate how we can use these language constructs to represent every discrete piece of functionality as an equally discrete model, view, and update function, and how to compose them to build larger applications out of smaller ones.\n We will see how the Elm architecture allows us to scale to any level of complexity with ease by building our applications as fractal structures with components fully contained by other components - not just their presentation,\n but their model and business logic as well.",
+			"description3": "Some understanding of functional programming and in particular functional reactive programming will help to get the most out of this talk, but the general concepts work in other languages and paradigms too (although certainly not as well).",
+			"description4": "Luke is a JavaScript developer at Raise with experience on the front-end and in Node. At work he spends much of his time building UIs with React, Redux, and Redux Loop, and developing services with Node and Hapi. Outside of work he is an active member of the Elm community, maintaining builtwithelm.co and several open source packages including elm-http-extra and elm-verbal-expressions. He loves contributing to the Elm community by answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When he's not thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his girlfriend."
+		}]
+	}, {
+		"name": "Luke Westby",
+		"title": "Friendly Functional Programming For The Web",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": "With the introduction of RxJS, React, Cycle, Immutable, Flow and TypeScript, and many of the new syntax features of ES6+, building JavaScript applications is evolving toward the functional reactive paradigm. The real benefit of functional programming, however, comes from using a truly functional language. Unfortunately, pure functional programming still seems to have an overly-mathematical stigma in the front-end community that can be discouraging to newcomers. Elm aims to fix all of this.",
+			"description2": "Elm is a pleasant compile-to-JS language that marries the productivity of the JavaScript environment with the productivity and guarantees of a functional language. In Elm, every value is immutable, every function is stateless and concise, every DOM update is virtual, and every app is guaranteed free from runtime exceptions. Additionally, it provides this power in a way that is accessible and easy for people who are new to functional programming to get started and become productive quickly.",
+			"description3": "In this talk, Luke will demonstrate all of the beauties of Elm, its syntax, tools, community, and hopefully convince you that the web is moving toward what Elm already provides. He will demonstrate some syntax and show some examples; cover all of the ways that Elm can make functional programming for the browser a nicer experience for anyone.",
+			"description4": "Luke is a JavaScript developer at Raise with experience on the front-end and in Node. At work he spends much of his time building UIs with React, Redux, and Redux Loop, and developing services with Node and Hapi. Outside of work he is an active member of the Elm community, maintaining builtwithelm.co and several open source packages including elm-http-extra and elm-verbal-expressions. He loves contributing to the Elm community by answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When he's not thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his girlfriend."
+		}]
+	}, {
+		"name": "Martin O' Shield",
+		"title": " ",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": " "
+		}]
+	}, {
+		"name": "Pat Riehecky",
+		"title": "Where does Scientific Linux Flourish!",
+		"image": "pat-riehecky.jpg",
+		"descriptions": [{
+			"description1": "Scientific Linux is a Fermilab sponsored project.  Our primary user base is within the High Energy and High Intensity Physics community.  However, our users come from a wide variety of industries with various use cases all over the globe – and sometimes off of it!  This talk covers a little bit about the history of Scientific Linux, where Scientific Linux is used, our mission, our goals, and our future direction.",
+			"description2": "Pat Riehecky holds an MA in Historical and Systematic Theology, a BA in Philosophy, and works at Fermi National Accelerator Laboratory.  He has a variety of duties at Fermilab, though he is most fond of Scientific Linux.  His support work at Fermilab ranges from Workstations, to Control Rooms, to Data Acquisition systems.  He is passionate about open source and giving code back."
+		}]
+	}, {
+		"name": "Phil Gomes",
+		"title": " ",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": " "
+		}]
+	}, {
+		"name": "Raymond Hightower",
+		"title": "Get Ready for Parallel Programming, Featuring Parallella",
+		"image": "raymond-hightower.jpg",
+		"descriptions": [{
+			"description1": "Speed matters. For certain problems, parallel computing blows away the serial style we learned in school. What’s a cool way for serially-trained developers to explore parallelism? Consider Parallella: An 18-core, credit card sized computer that developers can use to start learning parallel computing today. Parallella runs Linux, the hardware is open source, and you can buy it online for $150. This talk will feature a Parallella running a Ruby on Rails app with parallel processing behind the scenes. Example source code will be available on GitHub. You can start learning parallel computing today."
+		}]
+	}, {
+		"name": "Richard Cross",
+		"title": "Using the Cloud to Make Self-Driving Cars Safer",
+		"image": "richard-cross.jpg",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
+		"name": "Robert Landley",
+		"title": " ",
+		"image": "speaker-holder.png",
+		"descriptions": [{
+			"description1": " "
+		}]
+	}, {
+		"name": "Sarah Sexton",
+		"title": "Building Your First Node.js App and Publishing to Azure",
+		"image": "sarah-sexton.png",
+		"descriptions": [{
+			"description1": "Learn how to build your very first Node.js app on open source software and publish it online directly from GitHub. Follow me on my personal journey from when I first heard about Node, to learning what it was, downloading the appropriate tools, building something with it, and finally publishing it to Azure. You’ll leave with some basic knowledge about Node, how to get started building your first Node app, and how to share it with the rest of the world.",
+			"description2": "What is Node.js, and Where is it Strongest? Setting up your Node environment. Create your first Node app. Continuously Integrate from GitHub to Azure.",
+			"description3": "Sarah Sexton is a dedicated advocate for technology, committed to highlighting strengths and seeing more women and minorities get involved in video game development. She is a co-founder of Voxelles, a group for women developers in Chicago. She is most passionate about diversity, inclusion, and communicating clearly. Her responsibilities at Microsoft include speaking to user groups, writing code, blogging and tweeting about Microsoft services, and reaching out to the development community and students. She helps student, community, and startup developers find success on Windows. She works with them via local user groups and speaking at conferences and universities about anything ranging from Unity 3D, BizSpark, to coding advice for apps and games."
 
-               }
-            ]
-        },
-        {
-            "name": "Dru Lavigne",
-            "title": "ZFS 101 (aka ZFS is Cool and Why You Should be Using It)",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": "This presentation introduces some of the cool features provided by the ZFS filesystem. These features include built-in software RAID, the ability to self-heal data corruption, copy-on-write, low-overhead snapshots, support for multiple boot environments, and more. It then demonstrates how these features are incorporated into the graphical user interfaces of FreeNAS (an open source storage system) and PC-BSD (an open source desktop/server).",
-                    "description2": "Dru Lavigne is the lead documentation writer for the PC-BSD and FreeNAS projects. She is author of BSD Hacks, The Best of FreeBSD Basics, and The Definitive Guide to PC-BSD. She is founder and current Chair of the BSD Certification Group Inc., a non-profit organization with a mission to create the standard for certifying BSD system administrators, and serves on the Board of the FreeBSD Foundation."
-                }
-            ]
-        },
-        {
-            "name": "Evan Miller",
-            "title": "Democracy in Open Source",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": " "
-                }
-            ]
-        },
-        {
-            "name": "Greg Bauges",
-            "title": " ",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": " "
-                }
-            ]
-        },
-        {
-            "name": "Jim Campbell",
-            "title": " ",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": " "
-                }
-            ]
-        },
-        {
-            "name": "Johnathan Rentzsch",
-            "title": "Back to the Future",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": "We tend to view history and progress in a straight line, each thing building on the past. But that’s not simply the case. For example, we forgot the cure to scurvy. The standard lament is that, for computers, everything was invented in the 1960s. Fortunately that’s only 85% true. But it’s way more true than most programmers think. Wolf will provide examples of tech from the 60, 70s, and 80s that finally went mainstream and promising old tech that should move into the mainstream.",
-                    "description2": "Wolf Rentzsch has been writing Apple software since 1993 and web software since 1998. He’s spoken at conferences across the world and even ran his own conference, C4, right here in Chicago for four years. His passion is to make software better."
-                }
-            ]
-        },
-        {
-            "name": "Luke Westby",
-            "title": "Applications as Fractals: The Elm Architecture",
-            "image": "luke-westby.jpg",
-            "descriptions": [
-                {
-                    "description1": "The Elm Architecture is the officially prescribed design pattern for building applications with Elm. Compared to the traditional MVC architecture it can be described as MVU - Model, View, Update. Reactivity is a built-in construct in Elm and so Elm allows us to strip away all of the control associated with a controller and focus entirely on how we update the model given a change in our system.",
-                    "description2": "In this talk Luke will explain how the Elm architecture arises from Elm's Signals, Tasks, Tagged Unions, and stateless view functions. He will demonstrate how we can use these language constructs to represent every discrete piece of functionality as an equally discrete model, view, and update function, and how to compose them to build larger applications out of smaller ones.
-We will see how the Elm architecture allows us to scale to any level of complexity with ease by building our applications as fractal structures with components fully contained by other components - not just their presentation, but their model and business logic as well.",
-                    "description3": "Some understanding of functional programming and in particular functional reactive programming will help to get the most out of this talk, but the general concepts work in other languages and paradigms too (although certainly not as well).",
-                    "description4": "Luke is a JavaScript developer at Raise with experience on the front-end and in Node. At work he spends much of his time building UIs with React, Redux, and Redux Loop, and developing services with Node and Hapi. Outside of work he is an active member of the Elm community, maintaining builtwithelm.co and several open source packages including elm-http-extra and elm-verbal-expressions. He loves contributing to the Elm community by answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When he's not thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his girlfriend."
-                }
-            ]
-        },
-        {
-            "name": "Luke Westby",
-            "title": "Friendly Functional Programming For The Web",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": "With the introduction of RxJS, React, Cycle, Immutable, Flow and TypeScript, and many of the new syntax features of ES6+, building JavaScript applications is evolving toward the functional reactive paradigm. The real benefit of functional programming, however, comes from using a truly functional language. Unfortunately, pure functional programming still seems to have an overly-mathematical stigma in the front-end community that can be discouraging to newcomers. Elm aims to fix all of this.",
-                    "description2": "Elm is a pleasant compile-to-JS language that marries the productivity of the JavaScript environment with the productivity and guarantees of a functional language. In Elm, every value is immutable, every function is stateless and concise, every DOM update is virtual, and every app is guaranteed free from runtime exceptions. Additionally, it provides this power in a way that is accessible and easy for people who are new to functional programming to get started and become productive quickly.",
-                    "description3": "In this talk, Luke will demonstrate all of the beauties of Elm, its syntax, tools, community, and hopefully convince you that the web is moving toward what Elm already provides. He will demonstrate some syntax and show some examples; cover all of the ways that Elm can make functional programming for the browser a nicer experience for anyone.",
-                    "description4": "Luke is a JavaScript developer at Raise with experience on the front-end and in Node. At work he spends much of his time building UIs with React, Redux, and Redux Loop, and developing services with Node and Hapi. Outside of work he is an active member of the Elm community, maintaining builtwithelm.co and several open source packages including elm-http-extra and elm-verbal-expressions. He loves contributing to the Elm community by answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When he's not thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his girlfriend."
-                }
-            ]
-        },
-        {
-            "name": "Martin O' Shield",
-            "title": " ",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": " "
-                }
-            ]
-        },
-        {
-            "name": "Pat Riehecky",
-            "title": "Where does Scientific Linux Flourish!",
-            "image": "pat-riehecky.jpg",
-            "descriptions": [
-                {
-                    "description1": "Scientific Linux is a Fermilab sponsored project.  Our primary user base is within the High Energy and High Intensity Physics community.  However, our users come from a wide variety of industries with various use cases all over the globe – and sometimes off of it!  This talk covers a little bit about the history of Scientific Linux, where Scientific Linux is used, our mission, our goals, and our future direction.",
-                    "description2": "Pat Riehecky holds an MA in Historical and Systematic Theology, a BA in Philosophy, and works at Fermi National Accelerator Laboratory.  He has a variety of duties at Fermilab, though he is most fond of Scientific Linux.  His support work at Fermilab ranges from Workstations, to Control Rooms, to Data Acquisition systems.  He is passionate about open source and giving code back."
-                }
-            ]
-        },
-        {
-            "name": "Phil Gomes",
-            "title": " ",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": " "
-                }
-            ]
-        },
-        {
-            "name": "Raymond Hightower",
-            "title": "Get Ready for Parallel Programming, Featuring Parallella",
-            "image": "raymond-hightower.jpg",
-            "descriptions": [
-                {
-                    "description1": "Speed matters. For certain problems, parallel computing blows away the serial style we learned in school. What’s a cool way for serially-trained developers to explore parallelism? Consider Parallella: An 18-core, credit card sized computer that developers can use to start learning parallel computing today. Parallella runs Linux, the hardware is open source, and you can buy it online for $150. This talk will feature a Parallella running a Ruby on Rails app with parallel processing behind the scenes. Example source code will be available on GitHub. You can start learning parallel computing today."
-                }
-            ]
-        },
-        {
-            "name": "Richard Cross",
-            "title": "Using the Cloud to Make Self-Driving Cars Safer",
-            "image": "richard-cross.jpg",
-            "descriptions": [
-                {
-                    "description1":
-                }
-            ]
-        },
-        {
-            "name": "Robert Landley",
-            "title": " ",
-            "image": "speaker-holder.png",
-            "descriptions": [
-                {
-                    "description1": " "
-                }
-            ]
-        },
-        {
-            "name": "Sarah Sexton",
-            "title": "Building Your First Node.js App and Publishing to Azure",
-            "image": "sarah-sexton.png",
-            "descriptions": [
-                {
-                    "description1": "Learn how to build your very first Node.js app on open source software and publish it online directly from GitHub. Follow me on my personal journey from when I first heard about Node, to learning what it was, downloading the appropriate tools, building something with it, and finally publishing it to Azure. You’ll leave with some basic knowledge about Node, how to get started building your first Node app, and how to share it with the rest of the world.",
-                    "description2": "What is Node.js, and Where is it Strongest? Setting up your Node environment. Create your first Node app. Continuously Integrate from GitHub to Azure.",
-                    "description3": "Sarah Sexton is a dedicated advocate for technology, committed to highlighting strengths and seeing more women and minorities get involved in video game development. She is a co-founder of Voxelles, a group for women developers in Chicago. She is most passionate about diversity, inclusion, and communicating clearly. Her responsibilities at Microsoft include speaking to user groups, writing code, blogging and tweeting about Microsoft services, and reaching out to the development community and students. She helps student, community, and startup developers find success on Windows. She works with them via local user groups and speaking at conferences and universities about anything ranging from Unity 3D, BizSpark, to coding advice for apps and games."
+		}]
+	}, {
+		"name": "Steven Maguire",
+		"title": "Zero to 26,000: My Journey into Open Source",
+		"image": "steven-maguire.png",
+		"descriptions": [{
+			"description1": "At the beginning of 2015 my Github profile was completely empty and I communicated a goal of contributing to one new open source project per month throughout the year. Over the next 12 months my profile grew to include over 40 public repositories, composed mostly of well tested, well documented, easily implemented, framework agnostic PHP libraries. Additionally, I was welcomed into the prestigious League of Extraordinary PHP Packages, where I eventually contributed to the core for two very popular libraries. Today, my individual packages have been downloaded and utilized over 26,000 times and I'd like to spend about an hour sharing some interesting details of this journey with you, and hopefully inspire you to begin getting involved in the open source community; it's not as scary as it may seem.",
+			"description2": "Steven Maguire is a builder of teams, software architect, and product designer living in Chicago, IL. He is currently using his powers to help mail delivery suck a little bit less as VP of Technology at Earth Class Mail. Prior to that he held technical leadership roles at several startups and medium sized companies."
+		}]
+	}, {
+		"name": "Vijay Burbani",
+		"image": "vijay-gurbani.jpg",
+		"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
+		"descriptions": [{
+			"description1": "We define corporate open source (COS) as applying the precepts and methodologies prevalent in the open source development community for creating industrial-strength software projects in a corporation for internal use. It may seem that open source style development - using informal processes, voluntary assignment to tasks, and having few financial incentives - may not be a good match for commercial environments. Our work not only demonstrated that under the right circumstances corporations benefit from open source development techniques, but it also laid the groundwork for the research initiative now called \"Inner Source\", or the applications of best practices and culture from the open source domain applied to internal corporate software development efforts.",
+			"description2": "Vijay K. Gurbani works for the Security Technology Research Group at Bell Laboratories, the research arm of Alcatel-Lucent. He holds a B.Sc. in Computer Science with a minor in Mathematics, a M.Sc. in Computer Science, both from Bradley University; and a Ph.D. in Computer Science from Illinois Institute of Technology. Vijay's current work focuses on security aspects of Internet multimedia session protocols and peer-to- peer (P2P) networks. He is the author of over 50 journal papers and conference proceedings, five books, and 15 Internet Engineering Task Force (IETF) RFCs. He is currently the co-chair of the Application Layer Traffic Optimization (ALTO) Working Group in the IETF, which is designing a protocol to enable efficient communications between peers in a peer-to-peer system. Vijay's research interests are Internet telephony services, Internet telephony signaling protocols, security of Internet telephony protocols and services, and P2P networks and their application to various domains. Vijay holds four patents and has nine applications pending with the US Patent Office. He is a senior member of the ACM and a member of the IEEE Computer Society and Usenix."
+		}]
+	}],
+	"sponsors": [{
+		"name": "SpanTree",
+		"showName": false,
+		"image": "sponsors/spantree.png",
+		"link": "http://spantree.net/",
+		"level": "gold",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
+		"name": "ACM SIGSOFT",
+		"showName": true,
+		"image": "",
+		"link": "http://www.sigsoft.org/",
+		"level": "silver",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
+		"name": "easyname.ch",
+		"showName": false,
+		"image": "sponsors/easyname.png",
+		"link": "http://easyname.com",
+		"level": "silver",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
+		"name": "Department of Computer Science",
+		"showName": false,
+		"image": "sponsors/COL.ENG.DCS.BOTTOM.LG.PMS.PNG",
+		"link": "http://cs.uic.edu",
+		"level": "gold",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
+		"name": "College of Engineering",
+		"showName": false,
+		"image": "sponsors/COL.ENG.UNIV.NOTL.LG.PMS.PNG",
+		"link": "http://coe.uic.edu",
+		"level": "diamond",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}],
+	"schedule": [{
+		"day": "Fri, April 1",
+		"slot": [{
+			"time": "1:00p",
+			"name": "stuff",
+			"where": "ERF"
+		}, {
+			"time": "1:00p",
+			"name": "stuff",
+			"where": "ERF"
+		}]
+	}, {
+		"day": "Sat, April 2",
+		"slot": [{
+			"time": "1:00p",
+			"name": "stuff",
+			"where": "ERF"
+		}, {
+			"time": "1:00p",
+			"name": "stuff",
+			"where": "ERF"
+		}]
+	}],
+	"faq": [{
+		"type": "General:",
+		"comment": "",
+		"subcomment": "",
+		"general": [{
+				"Qusetion": "What is Flourish!?",
+				"Answer": "Flourish! is a <strong>student-led</strong> conference hosted at the University of Illinois at Chicago. This year will mark the conference's <strong>ninth</strong> year.  We are proud to help promote the use of open source and provide a gathering place for open source enthusiasts in the Chicagoland area. The Flourish! conference is <strong>FREE</strong> to attend and there will be free T-Shirts to those who register before March 12th. We really appreciate everyone for coming to Flourish! Conference for the past several years and we hope to bring another great and educating year!"
+			},
 
-                }
-            ]
-        },
-        {
-            "name": "Steven Maguire",
-            "title": "Zero to 26,000: My Journey into Open Source",
-            "image": "steven-maguire.png",
-            "descriptions": [
-                {
-                    "description1": "At the beginning of 2015 my Github profile was completely empty and I communicated a goal of contributing to one new open source project per month throughout the year. Over the next 12 months my profile grew to include over 40 public repositories, composed mostly of well tested, well documented, easily implemented, framework agnostic PHP libraries. Additionally, I was welcomed into the prestigious League of Extraordinary PHP Packages, where I eventually contributed to the core for two very popular libraries. Today, my individual packages have been downloaded and utilized over 26,000 times and I'd like to spend about an hour sharing some interesting details of this journey with you, and hopefully inspire you to begin getting involved in the open source community; it's not as scary as it may seem.",
-                    "description2": "Steven Maguire is a builder of teams, software architect, and product designer living in Chicago, IL. He is currently using his powers to help mail delivery suck a little bit less as VP of Technology at Earth Class Mail. Prior to that he held technical leadership roles at several startups and medium sized companies."
-                }
-            ]
-        },
-        {
-            "name": "Vijay Burbani",
-            "image": "vijay-gurbani.jpg",
-            "title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
-            "descriptions": [
-                {
-                    "description1": "We define corporate open source (COS) as applying the precepts and methodologies prevalent in the open source development community for creating industrial-strength software projects in a corporation for internal use. It may seem that open source style development - using informal processes, voluntary assignment to tasks, and having few financial incentives - may not be a good match for commercial environments. Our work not only demonstrated that under the right circumstances corporations benefit from open source development techniques, but it also laid the groundwork for the research initiative now called "Inner Source", or the applications of best practices and culture from the open source domain applied to internal corporate software development efforts.",
-                    "description2": "Vijay K. Gurbani works for the Security Technology Research Group at Bell Laboratories, the research arm of Alcatel-Lucent. He holds a B.Sc. in Computer Science with a minor in Mathematics, a M.Sc. in Computer Science, both from Bradley University; and a Ph.D. in Computer Science from Illinois Institute of Technology. Vijay's current work focuses on security aspects of Internet multimedia session protocols and peer-to- peer (P2P) networks. He is the author of over 50 journal papers and conference proceedings, five books, and 15 Internet Engineering Task Force (IETF) RFCs. He is currently the co-chair of the Application Layer Traffic Optimization (ALTO) Working Group in the IETF, which is designing a protocol to enable efficient communications between peers in a peer-to-peer system. Vijay's research interests are Internet telephony services, Internet telephony signaling protocols, security of Internet telephony protocols and services, and P2P networks and their application to various domains. Vijay holds four patents and has nine applications pending with the US Patent Office. He is a senior member of the ACM and a member of the IEEE Computer Society and Usenix."
-                }
-            ]
-        }
-    ],
-    "sponsors": [
-	  {
-            "name": "SpanTree",
-			"showName": false,
-            "image": "sponsors/spantree.png",
-			"link": "http://spantree.net/",
-            "level": "gold",
-            "descriptions": [
-                {
-                    "description1": ""
-                }
-            ]
-	   },
-       {
-            "name": "ACM SIGSOFT",
-			"showName": true,
-            "image": "",
-			"link": "http://www.sigsoft.org/",
-            "level": "silver",
-            "descriptions": [
-                {
-                    "description1": ""
-                }
-            ]
-        },
-        {
-            "name": "easyname.ch",
-			"showName": false,
-            "image": "sponsors/easyname.png",
-			"link": "http://easyname.com",
-            "level": "silver",
-            "descriptions": [
-                {
-                    "description1": ""
-                }
-            ]
-        },
-        {
-            "name": "Department of Computer Science",
-			"showName": false,
-            "image": "sponsors/COL.ENG.DCS.BOTTOM.LG.PMS.PNG",
-			"link": "http://cs.uic.edu",
-            "level": "gold",
-            "descriptions": [
-                {
-                    "description1": ""
-                }
-            ]
-        },
-        {
-            "name": "College of Engineering",
-			"showName": false,
-            "image": "sponsors/COL.ENG.UNIV.NOTL.LG.PMS.PNG",
-			"link": "http://coe.uic.edu",
-            "level": "diamond",
-            "descriptions": [
-                {
-                    "description1": ""
-                }
-            ]
-        }
-	],
-    "schedule":[
-           {
-            "day": "Fri, April 1",
-            "slot": [
-                {
-                    "time":"1:00p",
-                    "name":"stuff",
-                    "where":"ERF"
-                },
-                {
-                    "time":"1:00p",
-                    "name":"stuff",
-                    "where":"ERF"
-                }
-            ]
-        },
-        {
-            "day": "Sat, April 2",
-            "slot": [
-                {
-                    "time":"1:00p",
-                    "name":"stuff",
-                    "where":"ERF"
-                },
-                {
-                    "time":"1:00p",
-                    "name":"stuff",
-                    "where":"ERF"
-                }
-            ]
-        }
-    ],    
-    "faq":[
-           {
-            "type": "General:",
-            "comment":"",
-            "subcomment":"",
-            "general": [
-                {
-                    "Qusetion":"What is Flourish!?",
-                    "Answer":"Flourish! is a <strong>student-led</strong> conference hosted at the University of Illinois at Chicago. This year will mark the conference's <strong>ninth</strong> year.  We are proud to help promote the use of open source and provide a gathering place for open source enthusiasts in the Chicagoland area. The Flourish! conference is <strong>FREE</strong> to attend and there will be free T-Shirts to those who register before March 12th. We really appreciate everyone for coming to Flourish! Conference for the past several years and we hope to bring another great and educating year!"
-                },
-
-                {
-                    "Qusetion":"Do I need to register?",
-                    "Answer":"Yes. You have the option to register online before or during the conference.  If you choose to register before March 12, 2016, we will be counted in our order for conference T-shirts.  You will be able to pick up T-shirts when checking in at the conference. Any unclaimed T-shirts after noon on Saturday will be given to those who want one.  We ask that you register as soon as possible, so that we can guage our needs for food, swag, and T-shirts."
-                },
-                {
-                    "Qusetion":"Is the conference free?",
-                    "Answer":"Yes! We welcome students, staff, and open-source enthusiasts alike to join us at Flourish!.  When registering for the conference, you have the option to register for free or as a donation ticket.  Donations will be used to support Flourish! for the next year."
-                },
-                {
-                    "Qusetion":"Will food be provided?",
-                    "Answer":"Yes. We will do our best to cater to your needs considering our limited budget.  We ask that you do register beforehand, so we can better guage our needs in ordering food.  There are also various restaurants on West on Taylor Street, South on Halsted Street as well Greek Town just a few blocks North of the conference."
-                },
-                {
-                    "Qusetion":"I want to volunteer! How do I get involved?",
-                    "Answer":"We have bi-weekly meetings at UIC.  Please email <a href=\"mailto:volunteer@flourishconf.com\">volunteer@flourishconf.com</a> for more details.  You can also subscribe to our planning listserv to get the most up-to-date information of planning meeting and logistics. Instructions for listserv subscriptions and other methods of contact can be found on our <a href=\"contact.html\">contact page</a>."
-                },
-                {
-                    "Qusetion":"I'm a company! I have questions!",
-                    "Answer":"Thank you for your interest.  We ask that you direct questions to <a href=\"mailto:info@flourishconf.com\">info@flourishconf.com</a>. Thanks!"
-                }
-            ]
-        },
-        {
-            "type": "<hr>Travel:",
-            "comment":"Flourish! 2016 will be held in the 3rd Floor Conference Center in Student Center East at the University of Illinois in Chicago",
-            "subcomment":"3rd Floor Conference Center - 750 S Halsted Street Chicago, IL 60607",
-            "general": [
-                {
-                    "Qusetion":"Coming from O'Hare International Airport",
-                    "Answer":"Take the CTA Blue Line towards Forest Park. Take the Blue Line until you arrive at UIC-Halsted.  From the station, walk South along Halsted Street until you arrive at 750 South Halsted Street."
-                },
-                {
-                    "Qusetion":"Coming from Midway International Airport",
-                    "Answer":"Take the CTA Orange Line towards Loop 'L'.  Take the Orange Line until you arrive at LaSalle/Van Buren.  From that stop, walk South to the CTA LaSalle Blue Line (one block) to transfer.  Take the CTA Blue Line towards Forest Park.  Ride the Blue Line for two stops until UIC-Halsted.  From the station, walk South along Salsted Street until you arrive at 750 South Halsted Street."
-                },
-                {
-                    "Qusetion":"Coming from Ogilvie Transportation Center",
-                    "Answer":"From the Ogilvie Transportation Center, Head West on West Washington Boulevard toward North Clinton Street. Turn left onto North Clinton Street and walk one block to the intersection of Madison and Clinton. Wait at the bus stop for bus #60 towards Cicero/24th Place.  Take the bus until you reach Halsted and Polk. You should arrive near the Jane Addams Hull House Museum.  Cross the street at the intersection of Halsted and Polk to arrive at Student Center East."
-                },
-                {
-                    "Qusetion":"Coming from Union Station",
-                    "Answer":"From Union Station, Use the Clinton and Jackson exit. Wait for CTA bus #60 at the bus stop on the opposite side of the street.  Board bus #60 towards Cicero/24th Place.  Take the bus until you reach Halsted and Polk. You should arrive near the Jane Addams Hull House Museum. Cross the street at the intersection of Halsted and Polk to arrive at Student Center East."
-                },
-                {
-                    "Qusetion":"Coming by car (parking)",
-                    "Answer":"Visitor parking is available at a few locations around Student Center East.  You may use the Halsted Street Partking Structure at the corner of South Halsted Street and West Taylor Street. Standard parking fees may apply.  Lot 4 directly East of Student Center East is available. Standard parking fees apply at Lot 4.  Lot 5C at the corner of West Roosevelt Boulevard and South Morgan Street is available as well.  Standard parking fees may apply at Lot 5C."
-                },
-				{
-                    "Qusetion":"Additional Resources",
-					"Answer":"<ul><li><a href=\"http://maps.uic.edu/\">UIC Campus Map</a></li><li><a href=\"\">Visitor's Guide</a></li></ul>"
-				}
-            ]
-        }
-    ]
+			{
+				"Qusetion": "Do I need to register?",
+				"Answer": "Yes. You have the option to register online before or during the conference.  If you choose to register before March 12, 2016, we will be counted in our order for conference T-shirts.  You will be able to pick up T-shirts when checking in at the conference. Any unclaimed T-shirts after noon on Saturday will be given to those who want one.  We ask that you register as soon as possible, so that we can guage our needs for food, swag, and T-shirts."
+			}, {
+				"Qusetion": "Is the conference free?",
+				"Answer": "Yes! We welcome students, staff, and open-source enthusiasts alike to join us at Flourish!.  When registering for the conference, you have the option to register for free or as a donation ticket.  Donations will be used to support Flourish! for the next year."
+			}, {
+				"Qusetion": "Will food be provided?",
+				"Answer": "Yes. We will do our best to cater to your needs considering our limited budget.  We ask that you do register beforehand, so we can better guage our needs in ordering food.  There are also various restaurants on West on Taylor Street, South on Halsted Street as well Greek Town just a few blocks North of the conference."
+			}, {
+				"Qusetion": "I want to volunteer! How do I get involved?",
+				"Answer": "We have bi-weekly meetings at UIC.  Please email <a href=\"mailto:volunteer@flourishconf.com\">volunteer@flourishconf.com</a> for more details.  You can also subscribe to our planning listserv to get the most up-to-date information of planning meeting and logistics. Instructions for listserv subscriptions and other methods of contact can be found on our <a href=\"contact.html\">contact page</a>."
+			}, {
+				"Qusetion": "I'm a company! I have questions!",
+				"Answer": "Thank you for your interest.  We ask that you direct questions to <a href=\"mailto:info@flourishconf.com\">info@flourishconf.com</a>. Thanks!"
+			}
+		]
+	}, {
+		"type": "<hr>Travel:",
+		"comment": "Flourish! 2016 will be held in the 3rd Floor Conference Center in Student Center East at the University of Illinois in Chicago",
+		"subcomment": "3rd Floor Conference Center - 750 S Halsted Street Chicago, IL 60607",
+		"general": [{
+			"Qusetion": "Coming from O'Hare International Airport",
+			"Answer": "Take the CTA Blue Line towards Forest Park. Take the Blue Line until you arrive at UIC-Halsted.  From the station, walk South along Halsted Street until you arrive at 750 South Halsted Street."
+		}, {
+			"Qusetion": "Coming from Midway International Airport",
+			"Answer": "Take the CTA Orange Line towards Loop 'L'.  Take the Orange Line until you arrive at LaSalle/Van Buren.  From that stop, walk South to the CTA LaSalle Blue Line (one block) to transfer.  Take the CTA Blue Line towards Forest Park.  Ride the Blue Line for two stops until UIC-Halsted.  From the station, walk South along Salsted Street until you arrive at 750 South Halsted Street."
+		}, {
+			"Qusetion": "Coming from Ogilvie Transportation Center",
+			"Answer": "From the Ogilvie Transportation Center, Head West on West Washington Boulevard toward North Clinton Street. Turn left onto North Clinton Street and walk one block to the intersection of Madison and Clinton. Wait at the bus stop for bus #60 towards Cicero/24th Place.  Take the bus until you reach Halsted and Polk. You should arrive near the Jane Addams Hull House Museum.  Cross the street at the intersection of Halsted and Polk to arrive at Student Center East."
+		}, {
+			"Qusetion": "Coming from Union Station",
+			"Answer": "From Union Station, Use the Clinton and Jackson exit. Wait for CTA bus #60 at the bus stop on the opposite side of the street.  Board bus #60 towards Cicero/24th Place.  Take the bus until you reach Halsted and Polk. You should arrive near the Jane Addams Hull House Museum. Cross the street at the intersection of Halsted and Polk to arrive at Student Center East."
+		}, {
+			"Qusetion": "Coming by car (parking)",
+			"Answer": "Visitor parking is available at a few locations around Student Center East.  You may use the Halsted Street Partking Structure at the corner of South Halsted Street and West Taylor Street. Standard parking fees may apply.  Lot 4 directly East of Student Center East is available. Standard parking fees apply at Lot 4.  Lot 5C at the corner of West Roosevelt Boulevard and South Morgan Street is available as well.  Standard parking fees may apply at Lot 5C."
+		}, {
+			"Qusetion": "Additional Resources",
+			"Answer": "<ul><li><a href=\"http://maps.uic.edu/\">UIC Campus Map</a></li><li><a href=\"\">Visitor's Guide</a></li></ul>"
+		}]
+	}]
 }
