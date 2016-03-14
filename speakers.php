@@ -135,6 +135,26 @@ echo "        <h2>" . $person['name'] . "</h2>
             
 echo"        </div><!-- columns 9-->
         </div><!-- row -->
+		<br />
+		<div class=\"row\">
+		<h3>Talks</h3>
+		<hr>
+		<div class=\"grid-block small-up-1 medium-up-3\">";
+foreach($person['schedule'] as $talk) {
+echo"			<div class=\"grid-block\">
+				<div class=\"callout\">
+					<h3>". $talk['title'] ."</h3>";
+foreach($talk['descriptions'][0] as $values){
+echo"					<p>$values</p>";
+}
+echo "					<p><strong>Location:</strong> " . $talk['location'] . "</p>";
+echo "					<p><strong>Time:</strong> " . $talk['start'] . " &mdash; " . $talk['end'] . "</p>";
+echo "				</div><!-- callout -->
+			</div><!--grid-block -->";
+}
+echo "		</div><!-- grid-block small-up-1 medium-up-3-->
+		
+		</div><!-- row -->
 		<hr>
         <p><a href=\"speakers.php\"> &laquo; Back to Speaker List</a></p>
     </div><!-- blog-post -->
