@@ -10,14 +10,14 @@
 	}, {
 		"name": "Chris Thoburn",
 		"title": " ",
-		"image": "speaker-holder.png",
+		"image": "chris-thoburn.jpg",
 		"descriptions": [{
 			"description1": " "
 		}]
 	}, {
 		"name": "Christopher Manning",
-		"title": "christopher-manning.jpg",
-		"image": "speaker-holder.png",
+		"title": "",
+		"image": "christopher-thoburn.jpg",
 		"descriptions": [{
 			"description1": "Building a software product with a team at a startup requires effectively utilizing the limited time and resources at your disposal. In this talk, I will discuss the pros and cons of using open-source software to build a product at a startup, a process for maintaining the software you use, and lessons learned from relying on open-source software.",
 			"description2": "Christopher Manning works at Civis Analytics as a Senior Staff Engineer. He spends his time improving the software platform, promoting open-source, and providing technical guidance."
@@ -54,7 +54,7 @@
 			"description1": " "
 		}]
 	}, {
-		"name": "Greg Bauges",
+		"name": "Greg Baugues",
 		"title": " ",
 		"image": "speaker-holder.png",
 		"descriptions": [{
@@ -70,7 +70,7 @@
 	}, {
 		"name": "Johnathan Rentzsch",
 		"title": "Back to the Future",
-		"image": "speaker-holder.png",
+		"image": "johnathan-rentzsch.jpg",
 		"descriptions": [{
 			"description1": "We tend to view history and progress in a straight line, each thing building on the past. But that’s not simply the case. For example, we forgot the cure to scurvy. The standard lament is that, for computers, everything was invented in the 1960s. Fortunately that’s only 85% true. But it’s way more true than most programmers think. Wolf will provide examples of tech from the 60, 70s, and 80s that finally went mainstream and promising old tech that should move into the mainstream.",
 			"description2": "Wolf Rentzsch has been writing Apple software since 1993 and web software since 1998. He’s spoken at conferences across the world and even ran his own conference, C4, right here in Chicago for four years. His passion is to make software better."
@@ -113,7 +113,7 @@
 	}, {
 		"name": "Phil Gomes",
 		"title": " ",
-		"image": "speaker-holder.png",
+		"image": "phil-gomes.jpg",
 		"descriptions": [{
 			"description1": " "
 		}]
@@ -134,7 +134,7 @@
 	}, {
 		"name": "Robert Landley",
 		"title": " ",
-		"image": "speaker-holder.png",
+		"image": "rob-randley.jpg",
 		"descriptions": [{
 			"description1": " "
 		}]
