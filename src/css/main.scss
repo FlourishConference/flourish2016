@@ -4,6 +4,24 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
 
+
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+  > .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
 $maincolor: #ff473a;
 /* $maincolor: #ef1616; */
 $lightcolor: #ff8777;
@@ -485,6 +503,150 @@ h1.front-head {
 		h1, h2, h3, h4, h5, h6 {
 			color: #000;
 		}
+	}
+
+}
+
+.speakers {
+	// Mac's Stuff
+	/* From http://clearleft.com/thinks/270 */
+	/* Credit to Charlotte Jackson */
+	/* 15TH APRIL 2015 */
+		
+		#speakers {
+		  margin-left: auto; 
+		  line-height: 1.3;
+		  /*margin-left: auto;*/
+		}
+		#sponsors {
+		  background-color: #f5f5f5;
+		  margin-left: auto; 
+		  max-width: 40em;
+		  line-height: 1.3;
+		}
+		ul, li {
+		  margin: 0;
+		  padding: 0;
+		  list-style: none;
+		}
+		h2 {
+		  margin-top: 0;
+		  margin-bottom: 0.4em;
+		}
+		.scheduleRegular {
+		    border-bottom: 1px solid #d0d0d0;
+		    padding: 10px 6px;
+		    margin: 0px;
+		}
+		.scheduleLast{
+		    padding: 10px 6px;
+		    margin: 0px;
+		}
+
+		/*Flex items*/
+		.list {
+		  display: flex;
+		  flex-wrap: wrap;
+		}
+		.list-item {
+			display: block; 
+			padding: 0.5em;
+			width: 100%;
+		}
+		@media all and (min-width: 40em) {
+		  .list-item {
+		    width: 50%;
+		  }
+		}
+		@media all and (min-width: 60em) {
+		  .list-item {
+		    width: 33.33%;
+		  }
+		}
+		.list-content {
+			background-color: #fff;
+			box-shadow: 0 0 1px #000;
+			display: inline-block;
+			flex-direction: column;
+			padding: 1em;
+			transition: all 0.25s;
+			width: 100%;
+		}
+		.list-content:hover {
+			box-shadow: 0 0 5px #000;
+		}
+
+		.list-content p {
+		    flex: 1 0 auto;
+		}
+		.list-content-gold {
+			background-color: #fff;
+			display: flex;
+			flex-direction: column;
+			padding: 1em;
+			width: 100%;
+		}
+		.list-content-silver {
+			background-color: #fff;
+			display: flex;
+			flex-direction: column;
+			padding: 1em;
+			width: 100%;
+		}
+		.list-content-bronze {
+			background-color: #fff;
+			display: flex;
+			flex-direction: column;
+			padding: 1em;
+			width: 100%;
+		}
+		.list-content-grey {
+			background-color: #ccc;
+			display: flex;
+			flex-direction: column;
+			padding: 1em;
+			width: 100%;
+		}
+		.scheduleTime{
+			font-size: .9em;
+			width: 50px;
+			color: #999999;
+		}
+		.scheduleName{
+			padding-left:20px;
+		}
+		.scheduleWhere{
+			padding-right:20px;
+			float: right;
+		}
+	
+	/* End references from http://clearleft.com/thinks/270 -Charlotte Jackson */
+
+	#speakers {
+		margin: 0 auto;
+		padding: 1em;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		color: #000;
+	}
+
+	.list-content-grey {
+		h1, h2, h3, h4, h5, h6 {
+			color: #000;
+		}
+	}
+	.list-item h2 {
+		font-size: 2em;
+	}
+
+	.img-container {
+		width: 100%;
+	}
+	img {
+		@include aspect-ratio(1,1);
+		width: 100%;
+		height: auto;
 	}
 
 }

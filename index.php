@@ -21,6 +21,7 @@ $json = json_decode($str, true);
 			<div class="nav">
 				<ul class="lg-btn">
 					<li><a href="about.html">About Flourish!</a></li>
+					<li><a href="speakers.php">Speakers</a></li>
 					<li><a href="sponsor.html">Sponsorship</a></li>
 					<li><a href="miniexpo">Mini-Expo</a></li>
 					<li><a href="contact.html">Contact Us</a></li>
