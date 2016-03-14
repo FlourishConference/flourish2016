@@ -6,21 +6,49 @@
 		"image": "cecilia-donnelly.png",
 		"descriptions": [{
 			"description1": "Cecilia Donnelly is a developer and project manager at <a href=\"http://opentechstrategies.com\">Open Tech Strategies</a>, a consulting company that helps organizations use open source to achieve their goals.  Cecilia is particularly experienced with and interested in the technology needs of community-based non-profits."
+		}],
+		"schedule": [{
+			"title": "TBA",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": ""
+			}]
 		}]
-	}, {
+	},
+		 {
 		"name": "Chris Thoburn",
 		"title": " ",
-		"image": "chris-thoburn.jpg",
+		"image": "chris-thoburn.png",
 		"descriptions": [{
-			"description1": " "
+			"description1": "Chris Thoburn (<a href=\"https://twitter.com/runspired\">@runspired</a>, <a href=\"http://runspired.com\">http://runspired.com</a>) is a Javascript Engineer at <a href=\"https://isleofcode.com\">[IsleofCode]</a>, author of over a dozen Open Source Ember.js addons for helping deliver maintainable and performant cross-platform applications, and maintainer of Hammer.js."
+		}],
+		"schedule": [{
+			"title": "The Real Value of Frameworks",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "Do frameworks limit creativity, or enable it?  Do they really have steep learning curves, and if they do, is the learning worthwhile?",
+				"description2": "This talk will focus on the real value of the Javascript framework Ember.js, standards, and how it's rigorous approach to finding better primitives is enabling a new era of performant cross-platform applications making use of occlusion, recycling, concurrency, and multi-threading."
+			}]
 		}]
-	}, {
+		}, {
 		"name": "Christopher Manning",
 		"title": "",
-		"image": "christopher-thoburn.jpg",
+		"image": "christopher-manning.jpg",
 		"descriptions": [{
-			"description1": "Building a software product with a team at a startup requires effectively utilizing the limited time and resources at your disposal. In this talk, I will discuss the pros and cons of using open-source software to build a product at a startup, a process for maintaining the software you use, and lessons learned from relying on open-source software.",
-			"description2": "Christopher Manning works at Civis Analytics as a Senior Staff Engineer. He spends his time improving the software platform, promoting open-source, and providing technical guidance."
+			"description1": "Christopher Manning works at Civis Analytics as a Senior Staff Engineer. He spends his time improving the software platform, promoting open-source, and providing technical guidance."
+		}],
+		"schedule": [{
+			"title": "How to Effectively Build Software Using Open-Source",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "Building a software product with a team at a startup requires effectively utilizing the limited time and resources at your disposal. In this talk, I will discuss the pros and cons of using open-source software to build a product at a startup, a process for maintaining the software you use, and lessons learned from relying on open-source software."
+			}]
 		}]
 	}, {
 		"name": "Daliah Saper",
@@ -28,23 +56,49 @@
 		"image": "daliah-saper.jpg",
 		"descriptions": [{
 			"description1": "Daliah Saper has handled many high profile cases (including one she argued before the Illinois Supreme  Court) and is regularly interviewed on national tv, radio, and in several publications including Fox News, CNN, CNBC, ABC News, 20/20, The New York Times, and the Chicago Tribune.  She has repeatedly received the honor of being named a “Rising Star” by Super Lawyers magazine, is recognized as a leading Media and Entertainment lawyer by Chambers and Partners, featured on the covers of TheXemplar magazine and Chicago Lawyer Magazine, profiled by the Chicago Law Bulletin,  and has been nominated for the prestigious ATHENA Young Professional Leadership Award. Most notably, in 2012, Law Bulletin Publishing Company selected Daliah Saper as a “40 under 40,” an incredibly competitive list of accomplished attorneys selected from thousands of qualified nominations.  She serves as an Adjunct Professor of Entertainment Law at Loyola University Chicago School of Law. As a litigator she handles cases involving trademark and copyright infringement, trade secret misappropriation, online defamation, domain name squatting, and commercial disputes. As a transactional lawyer she helps clients choose the right business entity, drafts bylaws and operating agreements as well as sweepstakes and contest rules, negotiates contracts and licenses including website terms of use and privacy policies, and provides comprehensive trademark and copyright counseling."
+		}],
+	"schedule": [{
+			"title": "To use or not to use? The Legal Implications of Using Open Source Software",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "Navigating an Open Source License: All Open Source licenses are not the same! Blindly assuming it's ok to incorporate open source code into your project could expose you and your company to big legal headaches. Attend this session to understand the myriad of ways you may (or may not ) license and distribute open source software. "
+			}]
 		}]
+
 	}, {
 		"name": "Derek Eder",
-		"title": "Open Source and Civic Technology",
+		"title": "",
 		"image": "derek-eder.jpg",
 		"descriptions": [{
-			"description1": "Open source is cool, but can it improve the lives of everyday people? Can it improve the way we interact with our government and hold it accountable?",
-			"description2": "Yes, it can. <a href=\"https://twitter.com/derekeder\">Derek Eder</a> will talk about the role that open source has played in the open government and civic technology movements in Chicago through his work with <a href=\"http://datamade.us\">DataMade</a>, <a href=\"http://opencityapps.org\">Open City</a>, and <a href=\"http://chihacknight.org\">Chi Hack Night</a>. He'll show off some of the open source civic applications he's worked on including <a href=\"http://lookatcook.com\">Look at Cook</a>, <a href=\"https://www.councilmatic.org\">Councilmatic</a> and the <a href=\"http://derekeder.com/searchable_map_template\">Searchable Map Template</a>.",
-			"description3": "Derek Eder has been building websites in Chicago since 2005. He is the owner of DataMade, LLC, an open government and open data web consulting company, co-founder of Open City, a collective that makes civic apps with open data, and organizer for the Open Gov Hack Night, a weekly event for building civic technology with open data."
+			"description1": "Derek Eder has been building websites in Chicago since 2005. He is the owner of DataMade, LLC, an open government and open data web consulting company, co-founder of Open City, a collective that makes civic apps with open data, and organizer for the Open Gov Hack Night, a weekly event for building civic technology with open data."
+		}],
+	"schedule": [{
+			"title": "Open Source and Civic Technology",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "Open source is cool, but can it improve the lives of everyday people? Can it improve the way we interact with our government and hold it accountable?",
+				"description2": "Yes, it can. <a href=\"https://twitter.com/derekeder\">Derek Eder</a> will talk about the role that open source has played in the open government and civic technology movements in Chicago through his work with <a href=\"http://datamade.us\">DataMade</a>, <a href=\"http://opencityapps.org\">Open City</a>, and <a href=\"http://chihacknight.org\">Chi Hack Night</a>. He'll show off some of the open source civic applications he's worked on including <a href=\"http://lookatcook.com\">Look at Cook</a>, <a href=\"https://www.councilmatic.org\">Councilmatic</a> and the <a href=\"http://derekeder.com/searchable_map_template\">Searchable Map Template</a>."
+			}]
 		}]
 	}, {
 		"name": "Dru Lavigne",
-		"title": "ZFS 101 (aka ZFS is Cool and Why You Should be Using It)",
+		"title": "",
 		"image": "speaker-holder.png",
 		"descriptions": [{
-			"description1": "This presentation introduces some of the cool features provided by the ZFS filesystem. These features include built-in software RAID, the ability to self-heal data corruption, copy-on-write, low-overhead snapshots, support for multiple boot environments, and more. It then demonstrates how these features are incorporated into the graphical user interfaces of FreeNAS (an open source storage system) and PC-BSD (an open source desktop/server).",
-			"description2": "Dru Lavigne is the lead documentation writer for the PC-BSD and FreeNAS projects. She is author of BSD Hacks, The Best of FreeBSD Basics, and The Definitive Guide to PC-BSD. She is founder and current Chair of the BSD Certification Group Inc., a non-profit organization with a mission to create the standard for certifying BSD system administrators, and serves on the Board of the FreeBSD Foundation."
+			"description1": "Dru Lavigne is the lead documentation writer for the PC-BSD and FreeNAS projects. She is author of BSD Hacks, The Best of FreeBSD Basics, and The Definitive Guide to PC-BSD. She is founder and current Chair of the BSD Certification Group Inc., a non-profit organization with a mission to create the standard for certifying BSD system administrators, and serves on the Board of the FreeBSD Foundation."
+		}],
+	"schedule": [{
+			"title": "ZFS 101 (aka ZFS is Cool and Why You Should be Using It)",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "This presentation introduces some of the cool features provided by the ZFS filesystem. These features include built-in software RAID, the ability to self-heal data corruption, copy-on-write, low-overhead snapshots, support for multiple boot environments, and more. It then demonstrates how these features are incorporated into the graphical user interfaces of FreeNAS (an open source storage system) and PC-BSD (an open source desktop/server)."
+			}]
 		}]
 	}, {
 		"name": "Evan Miller",
@@ -52,6 +106,15 @@
 		"image": "speaker-holder.png",
 		"descriptions": [{
 			"description1": " "
+		}],
+	"schedule": [{
+			"title": "Democracy in Open Source",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": ""
+			}]
 		}]
 	}, {
 		"name": "Greg Baugues",
@@ -59,6 +122,15 @@
 		"image": "speaker-holder.png",
 		"descriptions": [{
 			"description1": " "
+		}],
+	"schedule": [{
+			"title": "TBA",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": ""
+			}]
 		}]
 	}, {
 		"name": "Jim Campbell",
@@ -66,103 +138,207 @@
 		"image": "speaker-holder.png",
 		"descriptions": [{
 			"description1": " "
+		}],
+	"schedule": [{
+			"title": "TBA",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": ""
+			}]
 		}]
 	}, {
-		"name": "Johnathan Rentzsch",
+		"name": "Jonathan Rentzsch",
 		"title": "Back to the Future",
-		"image": "johnathan-rentzsch.jpg",
+		"image": "jonathan-rentzsch.jpg",
 		"descriptions": [{
-			"description1": "We tend to view history and progress in a straight line, each thing building on the past. But that’s not simply the case. For example, we forgot the cure to scurvy. The standard lament is that, for computers, everything was invented in the 1960s. Fortunately that’s only 85% true. But it’s way more true than most programmers think. Wolf will provide examples of tech from the 60, 70s, and 80s that finally went mainstream and promising old tech that should move into the mainstream.",
-			"description2": "Wolf Rentzsch has been writing Apple software since 1993 and web software since 1998. He’s spoken at conferences across the world and even ran his own conference, C4, right here in Chicago for four years. His passion is to make software better."
+			"description1": "Wolf Rentzsch has been writing Apple software since 1993 and web software since 1998. He’s spoken at conferences across the world and even ran his own conference, C4, right here in Chicago for four years. His passion is to make software better."
+		}],
+	"schedule": [{
+			"title": "Back to the Future",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "We tend to view history and progress in a straight line, each thing building on the past. But that’s not simply the case. For example, we forgot the cure to scurvy. The standard lament is that, for computers, everything was invented in the 1960s. Fortunately that’s only 85% true. But it’s way more true than most programmers think. Wolf will provide examples of tech from the 60, 70s, and 80s that finally went mainstream and promising old tech that should move into the mainstream."
+			}]
 		}]
 	}, {
 		"name": "Luke Westby",
-		"title": "Applications as Fractals: The Elm Architecture",
+		"title": "",
 		"image": "luke-westby.jpg",
 		"descriptions": [{
-			"description1": "The Elm Architecture is the officially prescribed design pattern for building applications with Elm. Compared to the traditional MVC architecture it can be described as MVU - Model, View, Update. Reactivity is a built-in construct in Elm and so Elm allows us to strip away all of the control associated with a controller and focus entirely on how we update the model given a change in our system.",
-			"description2": "In this talk Luke will explain how the Elm architecture arises from Elm's Signals, Tasks, Tagged Unions, and stateless view functions. He will demonstrate how we can use these language constructs to represent every discrete piece of functionality as an equally discrete model, view, and update function, and how to compose them to build larger applications out of smaller ones.\n We will see how the Elm architecture allows us to scale to any level of complexity with ease by building our applications as fractal structures with components fully contained by other components - not just their presentation,\n but their model and business logic as well.",
-			"description3": "Some understanding of functional programming and in particular functional reactive programming will help to get the most out of this talk, but the general concepts work in other languages and paradigms too (although certainly not as well).",
-			"description4": "Luke is a JavaScript developer at Raise with experience on the front-end and in Node. At work he spends much of his time building UIs with React, Redux, and Redux Loop, and developing services with Node and Hapi. Outside of work he is an active member of the Elm community, maintaining builtwithelm.co and several open source packages including elm-http-extra and elm-verbal-expressions. He loves contributing to the Elm community by answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When he's not thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his girlfriend."
-		}]
-	}, {
-		"name": "Luke Westby",
-		"title": "Friendly Functional Programming For The Web",
-		"image": "speaker-holder.png",
-		"descriptions": [{
-			"description1": "With the introduction of RxJS, React, Cycle, Immutable, Flow and TypeScript, and many of the new syntax features of ES6+, building JavaScript applications is evolving toward the functional reactive paradigm. The real benefit of functional programming, however, comes from using a truly functional language. Unfortunately, pure functional programming still seems to have an overly-mathematical stigma in the front-end community that can be discouraging to newcomers. Elm aims to fix all of this.",
-			"description2": "Elm is a pleasant compile-to-JS language that marries the productivity of the JavaScript environment with the productivity and guarantees of a functional language. In Elm, every value is immutable, every function is stateless and concise, every DOM update is virtual, and every app is guaranteed free from runtime exceptions. Additionally, it provides this power in a way that is accessible and easy for people who are new to functional programming to get started and become productive quickly.",
-			"description3": "In this talk, Luke will demonstrate all of the beauties of Elm, its syntax, tools, community, and hopefully convince you that the web is moving toward what Elm already provides. He will demonstrate some syntax and show some examples; cover all of the ways that Elm can make functional programming for the browser a nicer experience for anyone.",
-			"description4": "Luke is a JavaScript developer at Raise with experience on the front-end and in Node. At work he spends much of his time building UIs with React, Redux, and Redux Loop, and developing services with Node and Hapi. Outside of work he is an active member of the Elm community, maintaining builtwithelm.co and several open source packages including elm-http-extra and elm-verbal-expressions. He loves contributing to the Elm community by answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When he's not thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his girlfriend."
-		}]
+			"description1": "Luke is a JavaScript developer at Raise with experience on the front-end and in Node. At work he spends much of his time building UIs with React, Redux, and Redux Loop, and developing services with Node and Hapi. Outside of work he is an active member of the Elm community, maintaining builtwithelm.co and several open source packages including elm-http-extra and elm-verbal-expressions. He loves contributing to the Elm community by answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When he's not thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his girlfriend."
+		}],
+	"schedule": [{
+			"title": "Applications as Fractals: The Elm Architecture",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "The Elm Architecture is the officially prescribed design pattern for building applications with Elm. Compared to the traditional MVC architecture it can be described as MVU - Model, View, Update. Reactivity is a built-in construct in Elm and so Elm allows us to strip away all of the control associated with a controller and focus entirely on how we update the model given a change in our system.",
+				"description2": "In this talk Luke will explain how the Elm architecture arises from Elm's Signals, Tasks, Tagged Unions, and stateless view functions. He will demonstrate how we can use these language constructs to represent every discrete piece of functionality as an equally discrete model, view, and update function, and how to compose them to build larger applications out of smaller ones.\n We will see how the Elm architecture allows us to scale to any level of complexity with ease by building our applications as fractal structures with components fully contained by other components - not just their presentation,\n but their model and business logic as well.",
+				"description3": "Some understanding of functional programming and in particular functional reactive programming will help to get the most out of this talk, but the general concepts work in other languages and paradigms too (although certainly not as well)."
+			}]
+		},
+		{
+			"title": "Friendly Functional Programming For The Web",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "With the introduction of RxJS, React, Cycle, Immutable, Flow and TypeScript, and many of the new syntax features of ES6+, building JavaScript applications is evolving toward the functional reactive paradigm. The real benefit of functional programming, however, comes from using a truly functional language. Unfortunately, pure functional programming still seems to have an overly-mathematical stigma in the front-end community that can be discouraging to newcomers. Elm aims to fix all of this.",
+				"description2": "Elm is a pleasant compile-to-JS language that marries the productivity of the JavaScript environment with the productivity and guarantees of a functional language. In Elm, every value is immutable, every function is stateless and concise, every DOM update is virtual, and every app is guaranteed free from runtime exceptions. Additionally, it provides this power in a way that is accessible and easy for people who are new to functional programming to get started and become productive quickly.",
+				"description3": "In this talk, Luke will demonstrate all of the beauties of Elm, its syntax, tools, community, and hopefully convince you that the web is moving toward what Elm already provides. He will demonstrate some syntax and show some examples; cover all of the ways that Elm can make functional programming for the browser a nicer experience for anyone."
+			}]
+		}
+	]
 	}, {
 		"name": "Martin O' Shield",
 		"title": " ",
 		"image": "speaker-holder.png",
 		"descriptions": [{
 			"description1": " "
+		}],
+	"schedule": [{
+			"title": "TBA",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": ""
+			}]
 		}]
 	}, {
 		"name": "Pat Riehecky",
-		"title": "Where does Scientific Linux Flourish!",
+		"title": "",
 		"image": "pat-riehecky.jpg",
 		"descriptions": [{
-			"description1": "Scientific Linux is a Fermilab sponsored project.  Our primary user base is within the High Energy and High Intensity Physics community.  However, our users come from a wide variety of industries with various use cases all over the globe – and sometimes off of it!  This talk covers a little bit about the history of Scientific Linux, where Scientific Linux is used, our mission, our goals, and our future direction.",
-			"description2": "Pat Riehecky holds an MA in Historical and Systematic Theology, a BA in Philosophy, and works at Fermi National Accelerator Laboratory.  He has a variety of duties at Fermilab, though he is most fond of Scientific Linux.  His support work at Fermilab ranges from Workstations, to Control Rooms, to Data Acquisition systems.  He is passionate about open source and giving code back."
+			"description1": "Pat Riehecky holds an MA in Historical and Systematic Theology, a BA in Philosophy, and works at Fermi National Accelerator Laboratory.  He has a variety of duties at Fermilab, though he is most fond of Scientific Linux.  His support work at Fermilab ranges from Workstations, to Control Rooms, to Data Acquisition systems.  He is passionate about open source and giving code back."
+		}],
+	"schedule": [{
+			"title": "Where does Scientific Linux Flourish!",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "Scientific Linux is a Fermilab sponsored project.  Our primary user base is within the High Energy and High Intensity Physics community.  However, our users come from a wide variety of industries with various use cases all over the globe – and sometimes off of it!  This talk covers a little bit about the history of Scientific Linux, where Scientific Linux is used, our mission, our goals, and our future direction."
+			}]
 		}]
 	}, {
 		"name": "Phil Gomes",
 		"title": " ",
-		"image": "phil-gomes.jpg",
+		"image": "phil-gomes.png",
 		"descriptions": [{
-			"description1": " "
+			"description1": "By day, Phil Gomes is a Senior Vice President of U.S. B2B Digital for Edelman, the world's largest PR firm. Among other things, he tries to infuse the world of corporate communications with the spirit and ethos of open source and online communities. He is the first in the public relations industry to actively write about the potential impact of blockchain technology. In 2012, he founded Corporate Representatives for Ethical Wikipedia Engagement (CREWE), dedicated to helping companies and Wikipedians find common ground in developing accurate articles. "
+		}],
+	"schedule": [{
+			"title": "The Most Interesting (Non-Financial) Uses of Blockchain Technology",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "From a communications perspective, blockchain technology has the potential to be more transformative than social media was in the early 2000s. However, with the media's the focus on finance (and the baseless phobia around bitcoin), many of the most compelling use cases get ignored. This talk cuts through the fear and hype, delivering a compelling vision for use cases and the future of communications on the Internet."
+			}]
 		}]
 	}, {
 		"name": "Raymond Hightower",
 		"title": "Get Ready for Parallel Programming, Featuring Parallella",
 		"image": "raymond-hightower.jpg",
 		"descriptions": [{
-			"description1": "Speed matters. For certain problems, parallel computing blows away the serial style we learned in school. What’s a cool way for serially-trained developers to explore parallelism? Consider Parallella: An 18-core, credit card sized computer that developers can use to start learning parallel computing today. Parallella runs Linux, the hardware is open source, and you can buy it online for $150. This talk will feature a Parallella running a Ruby on Rails app with parallel processing behind the scenes. Example source code will be available on GitHub. You can start learning parallel computing today."
+			"description1": "Raymond T. Hightower is the founder of WisdomGroup, a software company that builds apps for the web and for mobile. WisdomGroup organizes the ChicagoRuby user group and the WindyCityRails annual conference. Hightower holds a BSCS from the University of Illinois at Chicago. His first experience with open source happened at UIC, and he is grateful to the University for the introduction. Details: <a href=\"http://rayhightower.com/\">RayHightower.com</a>."
+		}],
+	"schedule": [{
+			"title": "Get Ready for Parallel Programming, Featuring Parallella",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "Speed matters. For certain problems, parallel computing blows away the serial style we learned in school. What’s a cool way for serially-trained developers to explore parallelism? Consider Parallella: An 18-core, credit card sized computer that developers can use to start learning parallel computing today. Parallella runs Linux, the hardware is open source, and you can buy it online for $150. This talk will feature a Parallella running a Ruby on Rails app with parallel processing behind the scenes. Example source code will be available on GitHub. You can start learning parallel computing today."
+			}]
 		}]
 	}, {
 		"name": "Richard Cross",
-		"title": "Using the Cloud to Make Self-Driving Cars Safer",
+		"title": "DevOps Engineer at HERE",
 		"image": "richard-cross.jpg",
 		"descriptions": [{
 			"description1": ""
+		}],
+	"schedule": [{
+			"title": "Using the Cloud to Make Self-Driving Cars Safer",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": ""
+			}]
 		}]
 	}, {
 		"name": "Robert Landley",
 		"title": " ",
-		"image": "rob-randley.jpg",
+		"image": "rob-landley.png",
 		"descriptions": [{
-			"description1": " "
+			"description1": "Rob Landley has been a geek since childhood, a Linux geek since 1998, and an embedded Linux geek since 2001. (This is because he breaks everything, and likes reducing the complexity in his system so there are less layers to drill through when debugging it.) He no longer maintains BusyBox, or his own fork of tinycc, but does still maintain Firmware Linux. He knits chain mail, co-founded two combination science fiction convention/Linux expos, has more cats than are strictly necessary, and sometimes refers to himself in the third person when writing biography entries."
+		}],
+	"schedule": [{
+			"title": "TBA",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": ""
+			}]
 		}]
 	}, {
 		"name": "Sarah Sexton",
-		"title": "Building Your First Node.js App and Publishing to Azure",
+		"title": "",
 		"image": "sarah-sexton.png",
 		"descriptions": [{
-			"description1": "Learn how to build your very first Node.js app on open source software and publish it online directly from GitHub. Follow me on my personal journey from when I first heard about Node, to learning what it was, downloading the appropriate tools, building something with it, and finally publishing it to Azure. You’ll leave with some basic knowledge about Node, how to get started building your first Node app, and how to share it with the rest of the world.",
-			"description2": "What is Node.js, and Where is it Strongest? Setting up your Node environment. Create your first Node app. Continuously Integrate from GitHub to Azure.",
-			"description3": "Sarah Sexton is a dedicated advocate for technology, committed to highlighting strengths and seeing more women and minorities get involved in video game development. She is a co-founder of Voxelles, a group for women developers in Chicago. She is most passionate about diversity, inclusion, and communicating clearly. Her responsibilities at Microsoft include speaking to user groups, writing code, blogging and tweeting about Microsoft services, and reaching out to the development community and students. She helps student, community, and startup developers find success on Windows. She works with them via local user groups and speaking at conferences and universities about anything ranging from Unity 3D, BizSpark, to coding advice for apps and games."
+			"description1": "Sarah Sexton is a dedicated advocate for technology, committed to highlighting strengths and seeing more women and minorities get involved in video game development. She is a co-founder of Voxelles, a group for women developers in Chicago. She is most passionate about diversity, inclusion, and communicating clearly. Her responsibilities at Microsoft include speaking to user groups, writing code, blogging and tweeting about Microsoft services, and reaching out to the development community and students. She helps student, community, and startup developers find success on Windows. She works with them via local user groups and speaking at conferences and universities about anything ranging from Unity 3D, BizSpark, to coding advice for apps and games."
 
+		}],
+	"schedule": [{
+			"title": "Building Your First Node.js App and Publishing to Azure",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "Learn how to build your very first Node.js app on open source software and publish it online directly from GitHub. Follow me on my personal journey from when I first heard about Node, to learning what it was, downloading the appropriate tools, building something with it, and finally publishing it to Azure. You’ll leave with some basic knowledge about Node, how to get started building your first Node app, and how to share it with the rest of the world.",
+				"description2": "What is Node.js, and Where is it Strongest? Setting up your Node environment. Create your first Node app. Continuously Integrate from GitHub to Azure."
+			}]
 		}]
 	}, {
 		"name": "Steven Maguire",
 		"title": "Zero to 26,000: My Journey into Open Source",
 		"image": "steven-maguire.png",
 		"descriptions": [{
-			"description1": "At the beginning of 2015 my Github profile was completely empty and I communicated a goal of contributing to one new open source project per month throughout the year. Over the next 12 months my profile grew to include over 40 public repositories, composed mostly of well tested, well documented, easily implemented, framework agnostic PHP libraries. Additionally, I was welcomed into the prestigious League of Extraordinary PHP Packages, where I eventually contributed to the core for two very popular libraries. Today, my individual packages have been downloaded and utilized over 26,000 times and I'd like to spend about an hour sharing some interesting details of this journey with you, and hopefully inspire you to begin getting involved in the open source community; it's not as scary as it may seem.",
-			"description2": "Steven Maguire is a builder of teams, software architect, and product designer living in Chicago, IL. He is currently using his powers to help mail delivery suck a little bit less as VP of Technology at Earth Class Mail. Prior to that he held technical leadership roles at several startups and medium sized companies."
+			"description1": "Steven Maguire is a builder of teams, software architect, and product designer living in Chicago, IL. He is currently using his powers to help mail delivery suck a little bit less as VP of Technology at Earth Class Mail. Prior to that he held technical leadership roles at several startups and medium sized companies."
+		}],
+	"schedule": [{
+			"title": "Zero to 26,000: My Journey into Open Source",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "At the beginning of 2015 my Github profile was completely empty and I communicated a goal of contributing to one new open source project per month throughout the year. Over the next 12 months my profile grew to include over 40 public repositories, composed mostly of well tested, well documented, easily implemented, framework agnostic PHP libraries. Additionally, I was welcomed into the prestigious League of Extraordinary PHP Packages, where I eventually contributed to the core for two very popular libraries. Today, my individual packages have been downloaded and utilized over 26,000 times and I'd like to spend about an hour sharing some interesting details of this journey with you, and hopefully inspire you to begin getting involved in the open source community; it's not as scary as it may seem."
+			}]
 		}]
 	}, {
-		"name": "Vijay Burbani",
+		"name": "Vijay Gurbani",
 		"image": "vijay-gurbani.jpg",
 		"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
 		"descriptions": [{
-			"description1": "We define corporate open source (COS) as applying the precepts and methodologies prevalent in the open source development community for creating industrial-strength software projects in a corporation for internal use. It may seem that open source style development - using informal processes, voluntary assignment to tasks, and having few financial incentives - may not be a good match for commercial environments. Our work not only demonstrated that under the right circumstances corporations benefit from open source development techniques, but it also laid the groundwork for the research initiative now called \"Inner Source\", or the applications of best practices and culture from the open source domain applied to internal corporate software development efforts.",
 			"description2": "Vijay K. Gurbani works for the Security Technology Research Group at Bell Laboratories, the research arm of Alcatel-Lucent. He holds a B.Sc. in Computer Science with a minor in Mathematics, a M.Sc. in Computer Science, both from Bradley University; and a Ph.D. in Computer Science from Illinois Institute of Technology. Vijay's current work focuses on security aspects of Internet multimedia session protocols and peer-to- peer (P2P) networks. He is the author of over 50 journal papers and conference proceedings, five books, and 15 Internet Engineering Task Force (IETF) RFCs. He is currently the co-chair of the Application Layer Traffic Optimization (ALTO) Working Group in the IETF, which is designing a protocol to enable efficient communications between peers in a peer-to-peer system. Vijay's research interests are Internet telephony services, Internet telephony signaling protocols, security of Internet telephony protocols and services, and P2P networks and their application to various domains. Vijay holds four patents and has nine applications pending with the US Patent Office. He is a senior member of the ACM and a member of the IEEE Computer Society and Usenix."
+		}],
+	"schedule": [{
+			"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
+			"start": "",
+			"end": "",
+			"location": "",
+			"descriptions": [{
+				"description1": "We define corporate open source (COS) as applying the precepts and methodologies prevalent in the open source development community for creating industrial-strength software projects in a corporation for internal use. It may seem that open source style development - using informal processes, voluntary assignment to tasks, and having few financial incentives - may not be a good match for commercial environments. Our work not only demonstrated that under the right circumstances corporations benefit from open source development techniques, but it also laid the groundwork for the research initiative now called \"Inner Source\", or the applications of best practices and culture from the open source domain applied to internal corporate software development efforts."
+			}]
 		}]
 	}],
 	"sponsors": [{
