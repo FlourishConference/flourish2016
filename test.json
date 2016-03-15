@@ -354,8 +354,8 @@
 		}]
 	}, {
 		"name": "ACM SIGSOFT",
-		"showName": true,
-		"image": "",
+		"showName": false,
+		"image": "sponsors/sigsoft.png",
 		"link": "http://www.sigsoft.org/",
 		"level": "silver",
 		"descriptions": [{
