@@ -195,19 +195,20 @@
 		}
 	]
 	}, {
-		"name": "Martin O' Shield",
+		"name": "Martin O'Shield",
 		"title": " ",
-		"image": "speaker-holder.png",
+		"image": "martin-o'shield.jpg",
 		"descriptions": [{
-			"description1": " "
+			"description1": "Martin O'Shield, founder of WindyCitySDR,  accepted to both ​IBM​'s​ Global Entrepreneur & IBM Cloud for Start Ups Programs​, Intel Tech Provider Gold, Microsoft Partner, and as of yesterday, accepted to Facebook's Telecom Infrastructure Project, <a href=\"https://telecominfraproject.com\">telecominfraproject.com</a>, Implementing SDR / SDN / NFV / MEC"
 		}],
 	"schedule": [{
-			"title": "TBA",
+			"title": "How to create 2G through 5G, & BEYOND,  Software Defined Radio / Mobile Phone Networks",
 			"start": "",
 			"end": "",
 			"location": "",
 			"descriptions": [{
-				"description1": ""
+				"description1": "Software-defined radio (SDR) is a radiocommunication system where components that have been typically implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.",
+				"description2": "Today, utilizing Open Source Software, you can create 2G - 5G, and BEYOND, Software Defined Radio Networks!"
 			}]
 		}]
 	}, {
