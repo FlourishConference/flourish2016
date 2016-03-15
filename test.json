@@ -361,11 +361,20 @@
 			"description1": ""
 		}]
 	}, {
+		"name": "Civis Analytics",
+		"showName": false,
+		"image": "sponsors/civis-analytics.png",
+		"link": "https://civisanalytics.com",
+		"level": "bronze",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
 		"name": "easyname.ch",
 		"showName": false,
 		"image": "sponsors/easyname.png",
 		"link": "http://easyname.com",
-		"level": "silver",
+		"level": "bronze",
 		"descriptions": [{
 			"description1": ""
 		}]
