@@ -1,5 +1,4 @@
 {
-	"_comment": "Todo: Parse out speakers with no title. Create speaker-holder.png for placeholder image.",
 	"speakers": [{
 		"name": "Cecilia Donnelly",
 		"title": " ",
@@ -119,7 +118,7 @@
 	}, {
 		"name": "Greg Baugues",
 		"title": " ",
-		"image": "speaker-holder.png",
+		"image": "greg-baugues.jpg",
 		"descriptions": [{
 			"description1": " "
 		}],
@@ -264,15 +263,16 @@
 		"title": "DevOps Engineer at HERE",
 		"image": "richard-cross.jpg",
 		"descriptions": [{
-			"description1": ""
+			"description1": "Richard Cross is a DevOps Engineer for HERE’s Automotive Cloud group. He studied High Energy Physics at UW Madison where he was deeply involved in large scale computing projects and the web. After completing his Ph.D. in 2001, he worked at Bank of America on their corporate online banking website and several private cloud infrastructure projects. He joined HERE in 2014 shortly after completing his M.B.A. at the U. of C. Booth School of Business. His focus is in cloud infrastructure with the goal of designing and deploying systems which will securely provide safety data simultaneously to 10,000,000 cars.",
+      "description2": "He has a passion for entrepreneurship and is currently developing software to improve conferences management.  You can find out more about Richard at <a href=\"https://swiftcheckin.com/about-us\">swiftcheckin.com/about-us</a>."
 		}],
 	"schedule": [{
-			"title": "Using the Cloud to Make Self-Driving Cars Safer",
+			"title": "Using the Automotive Cloud to Improve Safety",
 			"start": "",
 			"end": "",
 			"location": "",
 			"descriptions": [{
-				"description1": ""
+				"description1": "Cars are now shipping with sensors and internet connectivity.  At HERE, we are building cloud services designed to gather data and distribute it to improve safety.  Learn how the Internet of Cars will make driving safer both for human drivers and self-driving cars.  The development of a Digital Transportation Infrastructure promises that more drivers will be able to drive more efficiently and comfortably in the future.  Since this system needs to be rapidly scalable, I will discuss features of the cloud and the DevOps toolkit that make delivery of Automotive Cloud Services a reality today."
 			}]
 		}]
 	}, {
@@ -330,8 +330,8 @@
 		"image": "vijay-gurbani.jpg",
 		"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
 		"descriptions": [{
-			"description1": "Vijay K. Gurbani works for the Security Technology Research Group at Bell Laboratories, the research arm of Alcatel-Lucent. He holds a B.Sc. in Computer Science with a minor in Mathematics, a M.Sc. in Computer Science, both from Bradley University; and a Ph.D. in Computer Science from Illinois Institute of Technology. Vijay's current work focuses on security aspects of Internet multimedia session protocols and peer-to- peer (P2P) networks.",
-			"description2": "He is the author of over 50 journal papers and conference proceedings, five books, and 15 Internet Engineering Task Force (IETF) RFCs. He is currently the co-chair of the Application Layer Traffic Optimization (ALTO) Working Group in the IETF, which is designing a protocol to enable efficient communications between peers in a peer-to-peer system. Vijay's research interests are Internet telephony services, Internet telephony signaling protocols, security of Internet telephony protocols and services, and P2P networks and their application to various domains. Vijay holds four patents and has nine applications pending with the US Patent Office. He is a senior member of the ACM and a member of the IEEE Computer Society and Usenix."
+			"description1": "Vijay K. Gurbani is a Distinguished Member of Technical Staff at Bell Laboratories' End-to-End Mobile Network Research department in Nokia Networks. He holds a B.Sc. in Computer Science with a minor in Mathematics, a M.Sc. in Computer Science, both from Bradley University; and a Ph.D. in Computer Science from Illinois Institute of Technology.",
+      "description2": "His current work is focused on scalable analytic architectures and algorithms for autonomic 5G networks. His research interests are multimedia protocols, security and privacy in multimedia protocols, peer-to-peer networks, distributed programming and open/inner source. Vijay's research has resulted in products that are used in national and international service provider networks. He has over 60 publications in peer-reviewed conferences and journals, 5 books, 7 granted U.S. patents and 18 Internet Engineering Task Force (IETF) RFCs.",
 		}],
 	"schedule": [{
 			"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
