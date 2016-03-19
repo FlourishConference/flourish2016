@@ -120,15 +120,15 @@
 		"title": " ",
 		"image": "greg-baugues.jpg",
 		"descriptions": [{
-			"description1": " "
+			"description1": "Greg serves as a developer evangelist for Twilio, where his mission is to inspire and equip developers to change communications forever. He moved to this great city of Chicago 11 years ago this month and lives in Logan Square with his wife, 1.5 year old daughter, and a dog that text selfies."
 		}],
 	"schedule": [{
-			"title": "TBA",
+			"title": "WebRTC: Changing the Future of Communications",
 			"start": "",
 			"end": "",
 			"location": "",
 			"descriptions": [{
-				"description1": ""
+				"description1": "WebRTC is a set of open source APIs that allow developers to build real-time voice calling, video chat and P2P file exchanges in the browser without external plugins. In this talk you'll learn the history of WebRTC, the limitations of WebRTC, and how to add video chat to your web application in ten minutes using the WebRTC based Twilio Video."
 			}]
 		}]
 	}, {
@@ -264,7 +264,7 @@
 		"image": "richard-cross.jpg",
 		"descriptions": [{
 			"description1": "Richard Cross is a DevOps Engineer for HERE’s Automotive Cloud group. He studied High Energy Physics at UW Madison where he was deeply involved in large scale computing projects and the web. After completing his Ph.D. in 2001, he worked at Bank of America on their corporate online banking website and several private cloud infrastructure projects. He joined HERE in 2014 shortly after completing his M.B.A. at the U. of C. Booth School of Business. His focus is in cloud infrastructure with the goal of designing and deploying systems which will securely provide safety data simultaneously to 10,000,000 cars.",
-      "description2": "He has a passion for entrepreneurship and is currently developing software to improve conferences management.  You can find out more about Richard at <a href=\"https://swiftcheckin.com/about-us\">swiftcheckin.com/about-us</a>."
+      		"description2": "He has a passion for entrepreneurship and is currently developing software to improve conferences management.  You can find out more about Richard at <a href=\"https://swiftcheckin.com/about-us\">swiftcheckin.com/about-us</a>."
 		}],
 	"schedule": [{
 			"title": "Using the Automotive Cloud to Improve Safety",
@@ -331,7 +331,7 @@
 		"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
 		"descriptions": [{
 			"description1": "Vijay K. Gurbani is a Distinguished Member of Technical Staff at Bell Laboratories' End-to-End Mobile Network Research department in Nokia Networks. He holds a B.Sc. in Computer Science with a minor in Mathematics, a M.Sc. in Computer Science, both from Bradley University; and a Ph.D. in Computer Science from Illinois Institute of Technology.",
-      "description2": "His current work is focused on scalable analytic architectures and algorithms for autonomic 5G networks. His research interests are multimedia protocols, security and privacy in multimedia protocols, peer-to-peer networks, distributed programming and open/inner source. Vijay's research has resulted in products that are used in national and international service provider networks. He has over 60 publications in peer-reviewed conferences and journals, 5 books, 7 granted U.S. patents and 18 Internet Engineering Task Force (IETF) RFCs.",
+      		"description2": "His current work is focused on scalable analytic architectures and algorithms for autonomic 5G networks. His research interests are multimedia protocols, security and privacy in multimedia protocols, peer-to-peer networks, distributed programming and open/inner source. Vijay's research has resulted in products that are used in national and international service provider networks. He has over 60 publications in peer-reviewed conferences and journals, 5 books, 7 granted U.S. patents and 18 Internet Engineering Task Force (IETF) RFCs."
 		}],
 	"schedule": [{
 			"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
