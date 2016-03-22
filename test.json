@@ -25,9 +25,9 @@
 		}],
 		"schedule": [{
 			"title": "The Real Value of Frameworks",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Saturday 10:00AM",
+			"end": "Saturday 10:50AM",
+			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "Do frameworks limit creativity, or enable it?  Do they really have steep learning curves, and if they do, is the learning worthwhile?",
 				"description2": "This talk will focus on the real value of the Javascript framework Ember.js, standards, and how it's rigorous approach to finding better primitives is enabling a new era of performant cross-platform applications making use of occlusion, recycling, concurrency, and multi-threading."
@@ -42,9 +42,9 @@
 		}],
 		"schedule": [{
 			"title": "How to Effectively Build Software Using Open-Source",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Satruday 3:00PM",
+			"end": "Satruday 3:50PM",
+			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "Building a software product with a team at a startup requires effectively utilizing the limited time and resources at your disposal. In this talk, I will discuss the pros and cons of using open-source software to build a product at a startup, a process for maintaining the software you use, and lessons learned from relying on open-source software."
 			}]
@@ -172,9 +172,9 @@
 		}],
 	"schedule": [{
 			"title": "Applications as Fractals: The Elm Architecture",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Saturday 11:00AM",
+			"end": "Saturday 11:50AM",
+			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "The Elm Architecture is the officially prescribed design pattern for building applications with Elm. Compared to the traditional MVC architecture it can be described as MVU - Model, View, Update. Reactivity is a built-in construct in Elm and so Elm allows us to strip away all of the control associated with a controller and focus entirely on how we update the model given a change in our system.",
 				"description2": "In this talk Luke will explain how the Elm architecture arises from Elm's Signals, Tasks, Tagged Unions, and stateless view functions. He will demonstrate how we can use these language constructs to represent every discrete piece of functionality as an equally discrete model, view, and update function, and how to compose them to build larger applications out of smaller ones.\n We will see how the Elm architecture allows us to scale to any level of complexity with ease by building our applications as fractal structures with components fully contained by other components - not just their presentation,\n but their model and business logic as well.",
@@ -183,9 +183,9 @@
 		},
 		{
 			"title": "Friendly Functional Programming For The Web",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Saturday 2:00PM",
+			"end": "Saturday 2:50PM",
+			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "With the introduction of RxJS, React, Cycle, Immutable, Flow and TypeScript, and many of the new syntax features of ES6+, building JavaScript applications is evolving toward the functional reactive paradigm. The real benefit of functional programming, however, comes from using a truly functional language. Unfortunately, pure functional programming still seems to have an overly-mathematical stigma in the front-end community that can be discouraging to newcomers. Elm aims to fix all of this.",
 				"description2": "Elm is a pleasant compile-to-JS language that marries the productivity of the JavaScript environment with the productivity and guarantees of a functional language. In Elm, every value is immutable, every function is stateless and concise, every DOM update is virtual, and every app is guaranteed free from runtime exceptions. Additionally, it provides this power in a way that is accessible and easy for people who are new to functional programming to get started and become productive quickly.",
@@ -235,9 +235,9 @@
 		}],
 	"schedule": [{
 			"title": "The Most Interesting (Non-Financial) Uses of Blockchain Technology",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Saturday 1:00PM",
+			"end": "Satruday 1:50PM",
+			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "From a communications perspective, blockchain technology has the potential to be more transformative than social media was in the early 2000s. However, with the media's the focus on finance (and the baseless phobia around bitcoin), many of the most compelling use cases get ignored. This talk cuts through the fear and hype, delivering a compelling vision for use cases and the future of communications on the Internet."
 			}]
@@ -268,9 +268,9 @@
 		}],
 	"schedule": [{
 			"title": "Using the Automotive Cloud to Improve Safety",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Saturday 3:00PM",
+			"end": "Saturday 3:50PM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "Cars are now shipping with sensors and internet connectivity.  At HERE, we are building cloud services designed to gather data and distribute it to improve safety.  Learn how the Internet of Cars will make driving safer both for human drivers and self-driving cars.  The development of a Digital Transportation Infrastructure promises that more drivers will be able to drive more efficiently and comfortably in the future.  Since this system needs to be rapidly scalable, I will discuss features of the cloud and the DevOps toolkit that make delivery of Automotive Cloud Services a reality today."
 			}]
@@ -318,9 +318,9 @@
 		}],
 	"schedule": [{
 			"title": "Zero to 26,000: My Journey into Open Source",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Saturday 1:00PM",
+			"end": "Saturday 1:50PM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "At the beginning of 2015 my Github profile was completely empty and I communicated a goal of contributing to one new open source project per month throughout the year. Over the next 12 months my profile grew to include over 40 public repositories, composed mostly of well tested, well documented, easily implemented, framework agnostic PHP libraries. Additionally, I was welcomed into the prestigious League of Extraordinary PHP Packages, where I eventually contributed to the core for two very popular libraries. Today, my individual packages have been downloaded and utilized over 26,000 times and I'd like to spend about an hour sharing some interesting details of this journey with you, and hopefully inspire you to begin getting involved in the open source community; it's not as scary as it may seem."
 			}]
@@ -351,9 +351,9 @@
 		}],
 	"schedule": [{
 			"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Satuday 10:00AM",
+			"end": "Saturday 10:50AM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "We define corporate open source (COS) as applying the precepts and methodologies prevalent in the open source development community for creating industrial-strength software projects in a corporation for internal use. It may seem that open source style development - using informal processes, voluntary assignment to tasks, and having few financial incentives - may not be a good match for commercial environments. Our work not only demonstrated that under the right circumstances corporations benefit from open source development techniques, but it also laid the groundwork for the research initiative now called \"Inner Source\", or the applications of best practices and culture from the open source domain applied to internal corporate software development efforts."
 			}]
