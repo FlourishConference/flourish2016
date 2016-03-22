@@ -42,8 +42,8 @@
 		}],
 		"schedule": [{
 			"title": "How to Effectively Build Software Using Open-Source",
-			"start": "Satruday 3:00PM",
-			"end": "Satruday 3:50PM",
+			"start": "Saturday 3:00PM",
+			"end": "Saturday 3:50PM",
 			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "Building a software product with a team at a startup requires effectively utilizing the limited time and resources at your disposal. In this talk, I will discuss the pros and cons of using open-source software to build a product at a startup, a process for maintaining the software you use, and lessons learned from relying on open-source software."
@@ -102,17 +102,18 @@
 	}, {
 		"name": "Evan Miller",
 		"title": "Democracy in Open Source",
-		"image": "speaker-holder.png",
+		"image": "evan-miller.jpg",
 		"descriptions": [{
-			"description1": " "
+			"description1": "A graduate of Williams College and the University of Chicago, Evan Miller earned his 15 minutes of Hacker News fame with Chicago Boss, the disgruntled Erlang web framework. He currently earns his keep with Wizard Pro, a data visualization and predictive modeling tool for Mac, and maintains his open-source karma with Hecate: The Hex Editor From Hell."
 		}],
 	"schedule": [{
 			"title": "Democracy in Open Source",
-			"start": "",
-			"end": "",
+			"start": "Saturday 11:00AM",
+			"end": "Saturday 11:50AM",
 			"location": "",
 			"descriptions": [{
-				"description1": ""
+				"description1": "Is open source software good for democracy? Stallman's free software movement began with explicitly democratic goals -- the protection of user freedom -- but now we're facing the depressing reality that open-source software can just as easily be used to spy on entire societies and deny individuals their rights. In this desultory talk I'll explore the role of democratic values in open-source software development, from individual motivations to collective decision-making processes, as well as the role that software developers as a profession are currently playing in the construction of a worldwide Red-Pill dystopian drone-strike hellscape.
+"
 			}]
 		}]
 	}, {
@@ -236,7 +237,7 @@
 	"schedule": [{
 			"title": "The Most Interesting (Non-Financial) Uses of Blockchain Technology",
 			"start": "Saturday 1:00PM",
-			"end": "Satruday 1:50PM",
+			"end": "Saturday 1:50PM",
 			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "From a communications perspective, blockchain technology has the potential to be more transformative than social media was in the early 2000s. However, with the media's the focus on finance (and the baseless phobia around bitcoin), many of the most compelling use cases get ignored. This talk cuts through the fear and hype, delivering a compelling vision for use cases and the future of communications on the Internet."
@@ -252,7 +253,7 @@
 	"schedule": [{
 			"title": "Get Ready for Parallel Programming, Featuring Parallella",
 			"start": "Friday 2:00PM",
-			"end": "Friday 2:00PM",
+			"end": "Friday 2:50PM",
 			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "Speed matters. For certain problems, parallel computing blows away the serial style we learned in school. What’s a cool way for serially-trained developers to explore parallelism? Consider Parallella: An 18-core, credit card sized computer that developers can use to start learning parallel computing today. Parallella runs Linux, the hardware is open source, and you can buy it online for $150. This talk will feature a Parallella running a Ruby on Rails app with parallel processing behind the scenes. Example source code will be available on GitHub. You can start learning parallel computing today."
