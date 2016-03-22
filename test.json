@@ -58,9 +58,9 @@
 		}],
 	"schedule": [{
 			"title": "To use or not to use? The Legal Implications of Using Open Source Software",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 1:00PM",
+			"end": "Friday 1:50PM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "Navigating an Open Source License: All Open Source licenses are not the same! Blindly assuming it's ok to incorporate open source code into your project could expose you and your company to big legal headaches. Attend this session to understand the myriad of ways you may (or may not ) license and distribute open source software. "
 			}]
@@ -75,9 +75,9 @@
 		}],
 	"schedule": [{
 			"title": "Open Source and Civic Technology",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 4:30PM",
+			"end": "Friday 5:20PM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "Open source is cool, but can it improve the lives of everyday people? Can it improve the way we interact with our government and hold it accountable?",
 				"description2": "Yes, it can. <a href=\"https://twitter.com/derekeder\">Derek Eder</a> will talk about the role that open source has played in the open government and civic technology movements in Chicago through his work with <a href=\"http://datamade.us\">DataMade</a>, <a href=\"http://opencityapps.org\">Open City</a>, and <a href=\"http://chihacknight.org\">Chi Hack Night</a>. He'll show off some of the open source civic applications he's worked on including <a href=\"http://lookatcook.com\">Look at Cook</a>, <a href=\"https://www.councilmatic.org\">Councilmatic</a> and the <a href=\"http://derekeder.com/searchable_map_template\">Searchable Map Template</a>."
@@ -92,9 +92,9 @@
 		}],
 	"schedule": [{
 			"title": "ZFS 101 (aka ZFS is Cool and Why You Should be Using It)",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 10:00AM",
+			"end": "Friday 10:50AM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "This presentation introduces some of the cool features provided by the ZFS filesystem. These features include built-in software RAID, the ability to self-heal data corruption, copy-on-write, low-overhead snapshots, support for multiple boot environments, and more. It then demonstrates how these features are incorporated into the graphical user interfaces of FreeNAS (an open source storage system) and PC-BSD (an open source desktop/server)."
 			}]
@@ -124,9 +124,9 @@
 		}],
 	"schedule": [{
 			"title": "WebRTC: Changing the Future of Communications",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 5:30PM",
+			"end": "Friday 6:20PM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "WebRTC is a set of open source APIs that allow developers to build real-time voice calling, video chat and P2P file exchanges in the browser without external plugins. In this talk you'll learn the history of WebRTC, the limitations of WebRTC, and how to add video chat to your web application in ten minutes using the WebRTC based Twilio Video."
 			}]
@@ -156,9 +156,9 @@
 		}],
 	"schedule": [{
 			"title": "Back to the Future",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 11:00AM",
+			"end": "Friday 11:50AM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "We tend to view history and progress in a straight line, each thing building on the past. But that’s not simply the case. For example, we forgot the cure to scurvy. The standard lament is that, for computers, everything was invented in the 1960s. Fortunately that’s only 85% true. But it’s way more true than most programmers think. Wolf will provide examples of tech from the 60, 70s, and 80s that finally went mainstream and promising old tech that should move into the mainstream."
 			}]
@@ -202,9 +202,9 @@
 		}],
 	"schedule": [{
 			"title": "How to create 2G through 5G, & BEYOND,  Software Defined Radio / Mobile Phone Networks",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 11:00AM",
+			"end": "Friday 11:50AM",
+			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "Software-defined radio (SDR) is a radiocommunication system where components that have been typically implemented in hardware (e.g. mixers, filters, amplifiers, modulators/demodulators, detectors, etc.) are instead implemented by means of software on a personal computer or embedded system.",
 				"description2": "Today, utilizing Open Source Software, you can create 2G - 5G, and BEYOND, Software Defined Radio Networks!"
@@ -219,9 +219,9 @@
 		}],
 	"schedule": [{
 			"title": "Where does Scientific Linux Flourish!",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 10:00AM",
+			"end": "Friday 10:50AM",
+			"location": "Illinois B",
 			"descriptions": [{
 				"description1": "Scientific Linux is a Fermilab sponsored project.  Our primary user base is within the High Energy and High Intensity Physics community.  However, our users come from a wide variety of industries with various use cases all over the globe – and sometimes off of it!  This talk covers a little bit about the history of Scientific Linux, where Scientific Linux is used, our mission, our goals, and our future direction."
 			}]
@@ -251,9 +251,9 @@
 		}],
 	"schedule": [{
 			"title": "Get Ready for Parallel Programming, Featuring Parallella",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 2:00PM",
+			"end": "Friday 2:00PM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "Speed matters. For certain problems, parallel computing blows away the serial style we learned in school. What’s a cool way for serially-trained developers to explore parallelism? Consider Parallella: An 18-core, credit card sized computer that developers can use to start learning parallel computing today. Parallella runs Linux, the hardware is open source, and you can buy it online for $150. This talk will feature a Parallella running a Ruby on Rails app with parallel processing behind the scenes. Example source code will be available on GitHub. You can start learning parallel computing today."
 			}]
@@ -301,9 +301,9 @@
 		}],
 	"schedule": [{
 			"title": "Building Your First Node.js App and Publishing to Azure",
-			"start": "",
-			"end": "",
-			"location": "",
+			"start": "Friday 3:00PM",
+			"end": "Friday 3:50PM",
+			"location": "Illinois A",
 			"descriptions": [{
 				"description1": "Learn how to build your very first Node.js app on open source software and publish it online directly from GitHub. Follow me on my personal journey from when I first heard about Node, to learning what it was, downloading the appropriate tools, building something with it, and finally publishing it to Azure. You’ll leave with some basic knowledge about Node, how to get started building your first Node app, and how to share it with the rest of the world.",
 				"description2": "What is Node.js, and Where is it Strongest? Setting up your Node environment. Create your first Node app. Continuously Integrate from GitHub to Azure."
@@ -326,6 +326,22 @@
 			}]
 		}]
 	}, {
+    "name": "Thomas Ma",
+    "title": "",
+    "image": "thomas-ma.jpg",
+    "descriptions": [{
+      "description1": "I’m a senior at UIC and the founder of Career Podium. Career Podium is an interactive platform that young professionals can use to connect to employers. The purpose of our platform is to attract passionate candidates to employers. In my free time, I enjoy traveling and reading non fiction books to improve as a person."
+    }],
+  "schedule": [{
+      "title": "Overcoming Defeat: Using it as motivation.",
+      "start": "Friday 4:30PM",
+      "end": "Friday 5:20PM",
+      "location": "Illinois B",
+      "descriptions": [{
+        "description1": "Being the founder of Career Podium is my first time as a leader. Prior to Career Podium, I was shy and never took the chance to put myself out there. I was always afraid of hearing no, that it limited my potential. To add to that, I was rejected from over 50 different companies last summer. The reason I didn't have any confidence was because I didn't know what I was passionate about. With Career podium, I now have something that allows for me to wake up everyday with energy. Throughout my talk, I would like to share my journey, and how I was able to help guide Career Podium to where it is today."
+      }]
+    }]
+  }, {
 		"name": "Vijay Gurbani",
 		"image": "vijay-gurbani.jpg",
 		"title": "The Inner Source Revolution: How corporations create commercial software using open source methodologies",
