@@ -298,8 +298,7 @@
       "end": "Saturday 4:50PM",
       "location": "Illinois A",
       "descriptions": [{
-        "description1": "How to compile the smallest, simplest Linux system capable of rebuilding itself under itself entirely from source code, and of building
-conventional Linux From Scratch under the result. Covers toolchain creation and cross compiling, embedded libc and command line, kernel configuration, init scripts and simple system configuration, and booting the result under qemu or kvm to perform native compiling under emulation, plus some performance tricks with distcc."
+        "description1": "How to compile the smallest, simplest Linux system capable of rebuilding itself under itself entirely from source code, and of building conventional Linux From Scratch under the result. Covers toolchain creation and cross compiling, embedded libc and command line, kernel configuration, init scripts and simple system configuration, and booting the result under qemu or kvm to perform native compiling under emulation, plus some performance tricks with distcc."
       }]
 		}
   ]
