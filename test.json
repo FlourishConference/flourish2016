@@ -290,7 +290,9 @@
 			"descriptions": [{
 				"description1": "Organizations from IBM to linux kernel development go through three stages of development: the for-profit side calls them startup, core business, and diversified conglomerate. Each stage is powered by different people (see the title) pursuing different goals (change, growth, stability) and operating in very different ways. The transitions between stages are particularly challenging (which is part of the reason 80% of all startups fail, and many open source projects fork or fizzle out).",
         "description2": "This talk combines elements of The Mythical Man-month, The Innovator's Dilemma, and the computer history book Accidental Empires to explain how Microsoft lost its technical edge long ago, why Google created \"Alphabet\", why neither IBM nor Xerox Parc could keep hold of the PC, and the relationship between the Linux Foundation and actual Linux development."
-			}, {
+			}]
+    },
+    {
       "title": "Embedded Linux From Scratch",
       "start": "Saturday 4:00PM",
       "end": "Saturday 4:50PM",
@@ -299,7 +301,8 @@
         "description1": "How to compile the smallest, simplest Linux system capable of rebuilding itself under itself entirely from source code, and of building
 conventional Linux From Scratch under the result. Covers toolchain creation and cross compiling, embedded libc and command line, kernel configuration, init scripts and simple system configuration, and booting the result under qemu or kvm to perform native compiling under emulation, plus some performance tricks with distcc."
       }]
-		}]
+		}
+  ]
 	}, {
 		"name": "Sarah Sexton",
 		"title": "",
