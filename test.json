@@ -134,17 +134,17 @@
 	}, {
 		"name": "Jim Campbell",
 		"title": " ",
-		"image": "speaker-holder.png",
+		"image": "jim-campbell.jpg",
 		"descriptions": [{
-			"description1": " "
+			"description1": "Jim is the co-organizer of the Chicago GNU/Linux User Group, a member of the GNOME Foundation and contributor to the GNU MediaGoblin project. By day, he works as an HR systems analyst at a large hospital in the city. He encourages use and development of Free, Libre and Open Source software, and thinks that the, \"Year of the free software desktop,\" is the year that you use free software on your desktop."
 		}],
 	"schedule": [{
-			"title": "TBA",
-			"start": "",
-			"end": "",
-			"location": "",
+			"title": "GNOME and Free Software in 2016: Freedom and Capability",
+			"start": "Saturday 4:00PM",
+			"end": "Saturday 4:50PM",
+			"location": "Illinois B",
 			"descriptions": [{
-				"description1": ""
+				"description1": "GNOME is a desktop computing environment with a full suite of applications and utilities. It is also free software, and is designed in a manner that respects your freedom and privacy. But if regular users and developers don't find these applications useful and enjoyable, all of that freedom is for naught. This presentation will look at where GNOME (and other free software projects) are succeeding at bringing a fully capable and enjoyable computing platform to users, and where we have room to improve. This session is geared toward regular laptop users and software developers, and provides a reasonable and compelling justification for running free software on your computer."
 			}]
 		}]
 	}, {
@@ -283,13 +283,22 @@
 			"description1": "Rob Landley has been a geek since childhood, a Linux geek since 1998, and an embedded Linux geek since 2001. (This is because he breaks everything, and likes reducing the complexity in his system so there are less layers to drill through when debugging it.) He no longer maintains BusyBox, or his own fork of tinycc, but does still maintain Firmware Linux. He knits chain mail, co-founded two combination science fiction convention/Linux expos, has more cats than are strictly necessary, and sometimes refers to himself in the third person when writing biography entries."
 		}],
 	"schedule": [{
-			"title": "TBA",
-			"start": "",
-			"end": "",
-			"location": "",
+			"title": "The three waves: Hobbyists, Employees, and Bureaucrats (oh my)",
+			"start": "Saturday 2:00PM",
+			"end": "Saturday 2:50PM",
+			"location": "Illinois A",
 			"descriptions": [{
-				"description1": ""
-			}]
+				"description1": "Organizations from IBM to linux kernel development go through three stages of development: the for-profit side calls them startup, core business, and diversified conglomerate. Each stage is powered by different people (see the title) pursuing different goals (change, growth, stability) and operating in very different ways. The transitions between stages are particularly challenging (which is part of the reason 80% of all startups fail, and many open source projects fork or fizzle out).",
+        "description2": "This talk combines elements of The Mythical Man-month, The Innovator's Dilemma, and the computer history book Accidental Empires to explain how Microsoft lost its technical edge long ago, why Google created \"Alphabet\", why neither IBM nor Xerox Parc could keep hold of the PC, and the relationship between the Linux Foundation and actual Linux development."
+			}, {
+      "title": "Embedded Linux From Scratch",
+      "start": "Saturday 4:00PM",
+      "end": "Saturday 4:50PM",
+      "location": "Illinois A",
+      "descriptions": [{
+        "description1": "How to compile the smallest, simplest Linux system capable of rebuilding itself under itself entirely from source code, and of building
+conventional Linux From Scratch under the result. Covers toolchain creation and cross compiling, embedded libc and command line, kernel configuration, init scripts and simple system configuration, and booting the result under qemu or kvm to perform native compiling under emulation, plus some performance tricks with distcc."
+      }]
 		}]
 	}, {
 		"name": "Sarah Sexton",
