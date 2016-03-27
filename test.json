@@ -132,6 +132,22 @@
 			}]
 		}]
 	}, {
+    "name": "Ian McLeod",
+    "title": " ",
+    "image": "ian-mcleod.jpg",
+    "descriptions": [{
+      "description1": "Ian McLeod is a developer in the Open Source and Standards group at Red Hat.  He is a regular contributor to the Fedora project, with a focus on the fedora Cloud interest group and release engineering.  He is also the primary upstream developer for Image Factory, a tool used to build Cloud, Docker and Vagrant images for Fedora, CentOS and Red Hat Enterprise Linux."
+    }],
+  "schedule": [{
+      "title": "Linux Charcuterie: How Distribution Sausage is Made",
+      "start": "Friday 1:00PM",
+      "end": "Friday 1:50PM",
+      "location": "Illinois B",
+      "descriptions": [{
+        "description1": "This talk will take a look at the entire chain of building a distribution from start to finish. We'll look at how source is packaged and built, and then complex combinations of packages are joined together to make a cohesive Linux distribution that successfully installs and runs in a diverse set of environments - from aging x86 hardware to public cloud environments, Linux containers, and immutable systems."
+      }]
+    }]
+  }, {
 		"name": "Jim Campbell",
 		"title": " ",
 		"image": "jim-campbell.jpg",
@@ -350,6 +366,22 @@
       "location": "Illinois B",
       "descriptions": [{
         "description1": "Being the founder of Career Podium is my first time as a leader. Prior to Career Podium, I was shy and never took the chance to put myself out there. I was always afraid of hearing no, that it limited my potential. To add to that, I was rejected from over 50 different companies last summer. The reason I didn't have any confidence was because I didn't know what I was passionate about. With Career podium, I now have something that allows for me to wake up everyday with energy. Throughout my talk, I would like to share my journey, and how I was able to help guide Career Podium to where it is today."
+      }]
+    }]
+  }, {
+    "name": "Troy Dawson",
+    "title": " ",
+    "image": "troy-dawson.jpg",
+    "descriptions": [{
+      "description1": "Troy Dawson is currently a senior software engineer working in the productization section of the Red Hat OpenShift project. Prior to working for Red Hat, Troy worked for Fermilab for 18 years where he was one of two lead developers of Scientific Linux and Fermi Linux."
+    }],
+  "schedule": [{
+      "title": "RHEL Clones for Fun and Profit",
+      "start": "Friday 4:30PM",
+      "end": "Friday 5:20PM",
+      "location": "Illinois B",
+      "descriptions": [{
+        "description1": "After a brief background of RHEL Clones (history, legal, fun stories), I'll tell how you can build your own, or use someone else's Clone. Most important I'll talk about projects, both huge and small, that can, and do, use RHEL Clones."
       }]
     }]
   }, {
