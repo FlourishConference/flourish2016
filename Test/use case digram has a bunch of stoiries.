@@ -1,0 +1,127 @@
+use case digram has a bunch of stoiries. 
+
+use cases have actors.
+
+use cases always are done by an actor.
+Time can be an initiating actor.
+
+Use case ID:
+Pre-condition:
+post condition:
+triggering event: matches the frist event in the sequence
+additional actors:
+
+
+
+
+Use case diagram 
+
+box under a class, active during that paeroid over time
+dotted line exists but not running
+arrows that go from calss to class, represent messages.
+X is a deconstructor.
+
+folded corners allow for boxing of larger sets. you can say a condition in this folded corner box. and just draw a box around the part that runs.
+
+optional is also the same as above, and just runs on a condition.
+
+alt condition, other condition, else... same as above again.
+
+rel name of intteractoin (args) same as above as well. 
+
+Messages also.
+
+
+initiating actor should always be the left first collom
+
+
+
+
+
+
+
+
+
+
+Communication diagram, collaboration digram
+
+its better to see the whole picutre, its more compact.
+It loses the info about what objects are created at what times.
+
+
+Ball and stick/lolypop connection,
+the stick requires 
+the ball provides the service.
+
+Just a line shows relation
+1 Exactly one.
+* Multiple (0 or more)
+0..1 optional 0 or one
+m..n numerically specifyed
+(ordered) * ordered
+^ this is a label for type of way the stuff is placed
+
+
+diamonds are used for collection or compesition.
+things that are agrigated in and of themeslfs 
+
+compizition 
+
+arrows can be a pointer.
+dependency is dotted.
+qualifyed assoication, 
+
+hollow dimandon is an agrigation exist independt of container
+solid diamond is a part of the container. 
+
+
+class describes the associaiton between two classes.
+class ------ class
+		|
+		|
+	 	|
+ association class
+
+
+
+ package diagram, looks like a box, and looks like a file folder, has a tab on top with a lable in it.
+
+
+
+ Deployment digrams...
+
+ A box (3d)
+ represents a platform
+ we see what is on the platform
+
+Lines are how they interact.
+<< >> < gives you the tpe of thing. device is the top layer. ish.
+: the type of device is given after a colon.
+
+the box is a plug 
+the inside of a box usually has a name.
+
+
+activity diagram.
+explains different activities.
+solid dot for start
+holow dot for end
+ovals for activitie. 
+fork is parealle 
+join is parealle has to wait for others to catch up.
+conditional branch is a diamond, if else case, merge might be used.
+
+
+Swim lanes, it looks horizontal.
+Who is doing what, disbatcher
+field officer, they have lines seperating them
+
+FSM
+
+
+Componetn diagram - the little symobol with the plug.
+
++public 
+-private
+#protected
+~package
