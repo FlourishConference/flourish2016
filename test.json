@@ -439,6 +439,24 @@
 			"description1": ""
 		}]
 	}, {
+		"name": "cofactor",
+		"showName": false,
+		"image": "sponsors/cofactor.png",
+		"link": "http://www.cofactordigital.com",
+		"level": "bronze",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
+		"name": "roZoom",
+		"showName": false,
+		"image": "sponsors/roZoom.png",
+		"link": "http://roZoom.com",
+		"level": "bronze",
+		"descriptions": [{
+			"description1": ""
+		}]
+	}, {
 		"name": "Department of Computer Science",
 		"showName": false,
 		"image": "sponsors/COL.ENG.DCS.BOTTOM.LG.PMS.PNG",
